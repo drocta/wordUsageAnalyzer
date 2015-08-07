@@ -1,6 +1,7 @@
 import re
 import operator
 import math
+import itertools
 
 removeApostr=re.compile(r"'")#to remove apostrophes.
 removeDigits=re.compile(r"[0-9]")#to remove digits
@@ -82,3 +83,7 @@ def similarity(char_A,char_B):
     return wordCountsDotProduct(charsWordCounts[char_A],charsWordCounts[char_B])/(
         charsMagnitudes[char_A]*charsMagnitudes[char_B])
 
+
+def allValuesOf(names):
+	for a,b in itertools.combinations(names,2):
+		yield a,b,similarity(a,b)
