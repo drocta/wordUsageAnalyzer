@@ -1,0 +1,3383 @@
+Act 1
+_
+1. JE1: =001963
+I understand you have recently come into possession of the beta release of "The Game of the Year", as featured in respectable periodicals such as GameBro Magazine.
+I can't control myself.
+I must have a weakness for insufferable pricks. 
+John.
+You're wearing one of your disguises now, aren't you?
+You are typing to me right now while wearing something ridiculous.
+Ok.
+Why don't you go get the game from your father? 
+I know, John.
+_
+2. JE2: =002035
+It looks like you managed to retrieve the beta. Excellent.
+I'm going to try to connect.
+The rabbit?
+I've heard tales of this wretched creature often. Its Homeric legend is practically ensconced in the fold of my personal mythology by now.
+Why don't we focus on the matter at hand?
+You are running the client application. I am running the server, so I am the host user. I have established a connection with you. This is sufficient for us to play the game.
+Why don't we get started?
+_
+3. JE3: =002041
+Sorry. I'm just getting a feel for the controls.
+Yes.
+I will try to be more careful next time.
+_
+4. JE4: =002044
+I'll give it a shot.
+No luck.
+It appears to be out of range. I'm guessing it is too far away from you, the "player".
+_
+5. JE5: =002053
+It seems expanding the dimensions of your room cost us some "Build Grist".
+But deploying the lathe did not appear to incur any expense.
+It looks like certain objects are freebies, probably to help you set up the game.
+I think it's up to you to find out.
+All I can do is drop stuff in your house, and move it around, apparently.
+I don't think you can as the client. You will need to install the server application.
+You should have received both in separate envelopes. I am running both on my computer right now.
+Did you get another envelope in the mail?
+Once you install the server and establish a connection, I'm sure you will be able to manipulate my environment in the same manner. 
+Are you sure you didn't get it?
+_
+6. JE6: =002054
+Now that your room is bigger, why don't you move to the far corner?
+It will extend the range of the cursor, and I can reach the items.
+Which... you threw out the window for some reason?
+What have you been doing in here all afternoon, anyway?
+I like to use trees.
+It's not exceptionally practical.
+But I think they are elegant.
+_
+7. JE7: =002057
+Yes. Two more large gizmos.
+If I had to guess, they appear to facilitate a sort of system involving punch card-based alchemy.
+That remains to be seen.
+Maybe you should go investigate?
+_
+8. JE8: =002060
+The one you threw into the yard?
+What were you doing with it in the first place?
+I am not sensing a lot of regard for the personal property of others.
+Is this how your pent-up frustration with your father manifests itself?
+Your bathroom is a mess.
+Did you do that too?
+There's a cake in the toilet.
+I'm tempted to clean it up for you.
+My Obsessive-Compulsive Disorder complex?
+Can a disorder also be a complex?
+Sounds complicated.
+_
+9. JE9: =002063
+Whoops.
+_
+10. JE10: =002064
+No, I have it under control.
+You can keep playing with your telescope.
+_
+11. JE11: =002065
+I think I can patch it up.
+Just give me a little space.
+Why don't you go have a look at the Cruxtruder?
+The thing I put in your living room.
+_
+12. JE12: =002070
+There's a door there?
+I didn't see it.
+I just thought it fit nicely into that groove.
+_
+13. JE13: =002071
+Oh fuck.
+_
+14. JE14: =002074
+Sorry. I keep losing the wireless signal.
+Must be the weather.
+I would look for a stronger signal in another part of the house, but I'd rather not risk an encounter with my mother.
+I battled through her cloud of gin and derision once already this evening.
+Yes. Cake, jesters, unfaltering love and support.
+Quite a road to hoe there.
+Though I suppose I'm complicit for not informing Social Services about your situation.
+That presents the same problem.
+Also, it's raining, remember?
+And dark.
+Yes, the sun has already had its way with us here on the east coast.
+Its lurid glare has moved on to younger timezones.
+_
+15. JE15: =002075
+Need some help?
+_
+16. JE16: =002078
+I've been looking at the GameFAQ walkthroughs to figure some of this stuff out.
+Hold while I read further.
+All of these walkthroughs are extremely short.
+None progress much further than this point.
+True.
+Now that the lid is off, you will need to extrude some "Cruxite".
+_
+17 JE17: =002080
+I feel like we should be hurrying. That countdown is making me nervous.
+John?
+Oh. Your PDA is trapped under the cruxite now, isn't it.
+Anyway, it looks like you are going to need this card too.
+_
+18. JE18: =002084
+That is probably the "Kernelsprite".
+It apparently needs to be "prototyped".
+Twice, actually.
+Whatever the hell that means.
+These walkthroughs are horrendously written.
+_
+19. JE19: =002087
+That was only "Tier One Prototyping".
+There is still another tier to the prototyping process.
+Which for all we know merely advances this entity through increasingly esoteric states of linguistics.
+This unmitigated poppycock?
+The alchemiter?
+Try to learn the lingo.
+_
+20. JE20: =002100
+Your dad is getting home.
+John?
+What did you do with your PDA this time?
+I'm working on the bathroom.
+But we are running low on Build Grist.
+_
+21. JE21: =002104
+I'm working on the bathroom.
+But we are running low on Build Grist.
+I see.
+Do you suppose it has anything to do with the game?
+I think it's very likely.
+The walkthroughs vaguely suggest an impending threat before they end.
+The already poorly constructed sentences become even more curt and ambiguous.
+As if written hastily and with a sense of alarm.
+Actually, their dedication to updating the walkthrough under such circumstances is admirable.
+If the meteor is a game construct, I think the only thing to do is to proceed, and try to solve the dilemma on the game's terms.
+Try using the lathe.
+It says you can use the card on it, but isn't more specific than that.
+Really, it is a labor to read this drivel.
+If I read any more my brain will need to be spoon-fed from a jar.
+While it blows spit bubbles in a highchair.
+I think I will write my own walkthrough.
+That is, after we make sure you don't die.
+_
+22. JE22: =002140
+I'm back.
+Patience. You still haven't used the new totem.
+I believe it will create the item on the punch card.
+We'll see.
+I've found no evidence that anyone has successfully created the item.
+And the content of the card appears to be variable from session to session.
+In one instance it was described as an "eggy loking thign" [sic].
+According to the Atheneum, it is a free item.
+This speaks to its importance, in my view.
+Now off you go.
+_
+Act 2
+_
+23. JE23: =002156
+John?
+Are you there?
+I know.
+I've been watching you scramble through the house like a lunatic.
+You should have answered me sooner.
+No. I'm sure he'll turn up.
+We have more important things to address right now.
+I don't know that either. But I've determined your neighborhood was destroyed by the meteor. Wherever you were transported, it saved you from the impact.
+I've been reading reports in the news. Over the last few days, there have been many smaller meteor collisions with people's homes around the world.
+And they seem to be getting bigger. Yours was the biggest they've identified so far.
+Perhaps.
+Yes, but wait.
+We should retrieve your PDA. Yet again.
+It will help to keep tabs on each other while you investigate.
+I think I can get you closer to it, if I can replenish our grist supply somewhat.
+There may be a way to recycle some that we already used.
+I'll meet you out on the balcony.
+What?
+I was working on something to send you, but I was running late with it.
+I didn't want you to think I believed meager well wishes alone would suffice for the occasion.
+That said, happy birthday, John.
+_
+24. JE24: =002168
+John, are you ok?
+You seem a bit tentative.
+Perhaps the early symptoms of an anxiety disorder, like post-traumatic stress?
+Well, if you can pull yourself together, there are a few more things we should try.
+Like prototyping the Kernelsprite again, if possible.
+We should hurry. My laptop battery won't last forever.
+_
+25. JE25: =002175
+We have to hurry along. I'm running low on battery power.
+I doubt it matters.
+We might as well just use any old crap lying around.
+_
+26. JE26: =002178
+See if you can distract it.
+I'll try to sneak up on it.
+_
+27. JE27: =002183
+I can't find it anywhere in the house.
+No time to worry about it.
+The next thing we should do is get your server copy of the game from the car.
+You need to connect to my client, so I can repeat your steps and presumably join you, wherever you are.
+We should do this quickly, before my house burns down.
+_
+28. JE28: =002189
+I'm lifting the car up to the balcony.
+Once it is up, retrieve the game. Then I'll put it back down on the driveway.
+Then break a window.
+It's just a window, and this is sort of an emergency.
+Otherwise I promise I'll handle the car with velvet gloves.
+_
+29. DS1. =002233
+In some cultures the persistent refusal of a lady's invitation to play a game with her would be a sign wanton disrespect.
+Either that, or flagrant homosexuality.
+I know.
+Sometimes I wonder how you are ever allowed to pay for meals in restaurants.
+It must be hard to keep a low profile when you're always overhearing awed voices whisper, "It's that guy who has a blog."
+Navigating the urban landscape I'm sure is difficult enough without an obstacle course of deferential flesh and skyward asses.
+Perhaps adapting the art of parkour to your unique environment would help?
+Heavy is the crown.
+Breathtaking magnanimity!
+Indeed, nary a jewel tumbles from your wishbox of daily exploits which I imagine does not sparkle.
+Baseless accusation!
+I know this very well.
+I cannot hasten his mail's delivery, however.
+More than you know.
+It perfectly mollifies my grief over the demise of chivalry.
+_
+30. DS2. =002319
+No. For now I have retired to the safety of a smaller building which is much closer to the forest fire threatening my residence.
+Working on it?
+You're referring to your brother's collection?
+I've seen his websites.
+I like them. 
+Interesting...
+I am currently scrawling notes furiously into one of the many psychoanalysis journals I maintain for you. Published papers forthcoming.
+Because, you know, it's not like either of us have anything better to do at the moment than to evaluate each other's radically debilitating pathologies.
+He won't answer me either.
+But I am watching him.
+I suspect he is preoccupied with the fact that he just had a bucket of water dumped on his head by the ghost of his dead grandmother, who also happens to be dressed like a clown.
+_
+31. JH1. =002342
+Hello, and thanks.
+I just opened it this very moment. What a stunning coincidence you would ask about it now. I am stunned.
+And who said it was something from which something else could be made?
+I suppose I'll take a stab at learning the craft.
+It's the least I can do in response to the subtle dig concealed in his gesture.
+He often tells me I "need a new hobby" when I make perfectly reasonable analytical remarks.
+Maybe.
+His birthday is in a few months, isn't it?
+Years?
+It's so hard to tell when you're joking.
+Or if you're even capable of it.
+I'll probably craft something with strong sentimental value.
+That should burn him.
+I guess not.
+So, shall I expect a green package dropped to my house via airmail from whatever screwball cranny of the globe you're tucked into?
+Oh?
+Yes.
+"ok well", I didn't mention it was a cat, or that it was a male. Let's pretend I'm surprised and you're embarrassed and move on.
+To answer your question, I would describe my feelings toward the animal as lukewarm.
+If someone told me that, I would regard the remark with a great deal of skepticism.
+If that someone was you, on the other hand, then I would have to ask preemptively:
+Is that someone you?
+So what is this game?
+I'll see what the word on the street is about it. In due time.
+For now I should probably order a copy of Knitting for Assholes. It would be a shame if I ran late with John's present.
+_
+32. DS3: =002369
+COPY OF DS2. =002319
+_
+33. JE29: =002370
+John, what are you doing?
+Snap out of it.
+We ought to discuss what your grandmother told you, don't you think?
+Fine. Enjoy your stupor.
+I'll go about my business elsewhere.
+_
+34. JE30: =002371
+John, whenever you read this, you should know I put the shale you collected to use and finally deployed the Punch Designix.
+It is in your study.
+I can only drop it though. You'll have to be the one to mess around with it and see what it does.
+When you're finished with your weird histrionics, maybe you could give it a try?
+I'm updating my walkthrough, and it would help to know what it does.
+_
+35. JE31: =002372
+Also, I should probably warn you that your house and yard are completely infested with monsters now. Try to be careful.
+_
+36. JE32: =002373
+Oh, there you are.
+_
+37. JE33: =002378
+Sorry.
+No nuance to these controls at all.
+I was hoping to bludgeon the imp without letting go of it. Guess I can't really do that.
+A broken piano isn't the end of the world though.
+You'll need to pick up the spoils in person. I can't interact with the grist.
+Yes. Is there a problem?
+You're right, that does sound dumb.
+Yeah.
+You could say that.
+Maybe.
+_
+38. JE34: =002382
+There you go.
+Now why don't you check out the Designix?
+You can do that while I get to work.
+_
+39. JE35: =002384
+Nanna said to build, so that's what I'm doing.
+But this sure is going to take a lot of grist.
+Looks like you're going to be busy, John.
+Stairs.
+They are fairly expensive actually.
+_
+40. JE36. =002385
+I'll try recouping some of the grist from the catwalk I built earlier.
+Ah, good. Looks like I can get a refund for earlier allocations.
+Ok.
+Consider me fully briefed on the matter of stairs.
+Now if you don't mind, it's hard enough to concentrate on this without immersing ourselves in Strider's non sequitur.
+Does he?
+_
+41. JE37: =002405
+I blocked the entrance to the study to give you some space to work with the Designix.
+John, imps behind you.
+Should I take care of it?
+You trapped your PDA again, didn't you.
+Why did you have to pick up all that stupid shaving cream?
+So pointless.
+_
+42. JE38: =002413
+Ladders seem to be a bit cheaper than stairs.
+_
+43. DS4: =002422
+What is the specific problem?
+You know you like the mannequin dick. Accept it.
+Let's put this into perspective. You put up with the puppet prostate because you love it.
+Also, coarse is a good word.
+Are you going to start rapping about this?
+Prong of flesh bereft of home
+Found solace 'twixt a cleft of foam.
+Of apocalypse your thoughts eclipse
+A painted pair of parted lips
+That dare through kiss to stir the air
+That teases tufts of orange hair.
+And though faces flush in lovers' fits,
+Hands snug in plush as gloves befit.
+Then let's hope there will be a squishy derriere somewhere below the handle to break your fall.
+_
+44. JE39: =002437
+John, I'm about to throw a bath tub through your wall.
+Watch out.
+_
+45. JE40: =002438
+I made a shortcut upstairs. I thought it would be a good idea to get up there and try the cards as soon as possible.
+Also, you weren't being terribly responsive.
+They're perfectly navigable.
+I'm saving on grist for now.
+If you keep slaying foes, collecting grist, and expanding the cache limit, we may not need to be so economical with our resources in the future.
+_
+46. JE41: =002439
+Have you ever been in there?
+Exactly.
+I'd rather not get sidetracked.
+I'm more interested in further exploring the mechanics of the game than watching you discover what sort outlandish harlequin decor your father keeps in his room.
+Will you?
+Are you saying you've never wondered what's in there? Or why it's been kept a secret from you?
+Then trust me. You won't be going "right on through."
+I don't know.
+I can't see in there.
+But I don't have a very good feeling about it.
+_
+47. JE42: =002451
+Wait, John, before you punch that.
+Oh.
+I was about to say.
+If you first took note of the code, then removed the card from the card, you could have punched the blank one.
+You would have only burned one card instead of two.
+_
+48. DS5: =002511
+COPY OF CONVERSATION DS4. =002422
+_
+49. JE43: =002522
+Yes.
+I brought the totems out to the alchemiter to test them.
+I'm taking some things into my own hands to save some time.
+_
+50. JE44: =002536
+What did you do?
+I see.
+That was a really good idea, John. Nice work.
+Who?
+No.
+_
+51. JE45: =002543
+Sweet catch?
+I can't interact with you directly, or anything that you are touching, if it will result in moving you.
+See?
+The game probably regards that as a kind of cheating.
+In a way, thieving you of your free will as an adventurer, and the need to advance by your own skill and ingenuity.
+The server player is just a facilitator.
+No, you should pick up your hammer and defend yourself.
+I have no idea what the hell Dave is up to, or if he's any closer to recovering the game.
+There's some stuff I'd like to try, in case he doesn't come through. 
+_
+Act 3
+_
+52. JH2: =002738
+I require a font of frighteningly accurate yet infuriatingly nonspecific information.
+Do you know where I can find a wellspring of this sort?
+You have plans?
+Enter?
+This is what I was talking about.
+This was the itch that needed scratching.
+My avarice for the inscrutable. It is limitless.
+You've been insisting today was the big day.
+We would all play a game you didn't know the name of.
+A game you said I'd get in the mail, and did.
+One that would help me answer some questions.
+But Strider is being obtuse, I can't catch John at his computer, you don't even have the game yourself, and on top of all that, my internet is unstable.
+So are you sure today is the day?
+Is there nothing else you can say to prepare me for this?
+I'm sure you think little of blithely upsetting dark forces with Grandpa Moreau over there on Hellmurder Island, but honestly I've only read a few books on it.
+_
+53. JE46: =002780
+Good work, John!
+For now. I'll have to leave again shortly.
+It looks like there's another large meteor headed for...
+My present location.
+Not yet.
+I'll explain later.
+But I think I've determined that activating the timer in the game is not directly responsible for summoning a meteor to your location.
+The countdown seems merely to exist as a kind of warning to the player.
+As well as a strange coincidence.
+Probably not at the moment. And certainly not to you.
+I have to go.
+P.S. Try not to waste too much of that grist while I'm gone.
+_
+54. JE47: =002903
+That's quite a totem collection.
+What are you planning?
+No, that was the nearby forest, which up until quite recently would have been best described as "on fire".
+But you may be excited to learn that just as recently, my house finally notched that achievement.
+Thank you. Have you seen Dave?
+Ok.
+I'm going to start putting this grist to use too.
+Let's be sparing with the frivolous knickknack breeding and focus on getting you up to the gate, ok?
+Gushers?
+Which posters?
+John.
+Are you suggesting that imps are responsible for defacing your movie posters?
+Your posters have looked like that ever since I first saw your room.
+The moment we started playing this game.
+I thought you had defaced them ironically to mock your father's interests.
+John?
+...?
+_
+55. JE48: =002904
+This is good.
+Laughter is probably the best way to avoid being especially melodramatic about the revelation.
+_
+56. JE49: =002922
+I keep telling you the posters were always like that.
+Here, look.
+http://tinyurl.com/O413nanna
+http://tinyurl.com/O413weirdo
+Even if I had the motive for such a bizarre and pointless deception, where would I find the time?
+I don't even have Photoshop.
+I had no reason to think you were not aware of them.
+I thought they were strange, certainly, but was not struck by any particular impulse to discuss them.
+_
+57. JE50: =002923
+It looks like you were in your father's room recently.
+And how did it make you feel to discover what was in there?
+Maybe I am just being a friend?
+That doesn't matter.
+What matters is how seeing it affected you.
+I think it clearly has in some way.
+Is it fair to say this changed your perception of your father?
+Is it such a stretch to conclude it changed your perception of other things as well?
+_
+58. JE51: =002924
+I don't like to use the word "crazy".
+That was a joke.
+But anyway, whether it means you are crazy or not, consider this theory:
+Your presumably longstanding tendency for scrawling this imagery is really your subconsious trying to express something disturbing within you.
+Possibly something from your past, which you have blocked out.
+And since you have supressed it, your conscious self cannot acknowledge the drawings, therefore they have been invisible until now.
+Perhaps because you have seen evidence that conflicts with the worldview your subconscious has constructed to obfuscate the truth.
+That your dad is not necessarily the clown-loving maniac you thought he was.
+All along, this negative attribute buried in your psyche may have been projected on to him, and subsequently reviled, as a sort of defense mechanism.
+Is it unthinkable that over the years it was he who believed you were the one with a passion for clowns? Because of the all the strange drawings in your room?
+A father then embraces a son's hobby to establish a stronger bond.
+Or wages a campaign of passive-aggresive mockery of your interests.
+Either is plausible. I don't know your dad that well.
+It's awesome.
+_
+59. JE52: =002925
+I'm trying to spread the upward construction around so there is a more substantial foundation for later on.
+But I'm starting to wonder if it will be strong enough.
+It's kind of starting to wobble a little.
+I don't think brick chimneys were meant to serve this architectural purpose.
+I might have to adopt a different building strategy.
+Stick to more load-bearing walls, and blockier shapes, especially since grist has been easier to come by lately.
+Right.
+_
+60. KM1: =002993
+Have we spoken before?
+You and your friends never cease to invent ways to strengthen the credibility of your assertions.
+I would admire the sophistication of you and your fellow future-dwellers a little more if you seemed to be aware the word "human" only functions as that sort of adjective in bad science fiction.
+But I won't be rude and change the subject.
+There's a still a bit of unflagellated straw poking out of your rhetorical effigy over here.
+I thought you said we spoke in the future.
+I understand.
+You exist in some temporal stratum through which you have communication access to various points of my timeline.
+It's not that complicated.
+I try to every day, with mixed results.
+But you see, it's not that I don't understand you.
+It's just that I don't believe you.
+Because it's nonsense.
+Albeit persistent and coordinated nonsense.
+Why would a bunch of temporally dislocated trolls want to harass a group of friends throughout completely random points in time?
+Alright.
+Maybe you should get some trolling tips from us humans.
+Our sparing intellects are probably better suited to it.
+You want to be my friend?
+You mean I did in the future?
+Probably because I remembered you mentioning it in the conversation we're having now?
+Hmm.
+Your commitment to this roleplaying scenario is intriguing.
+What choice do I have but to accept?
+_
+61. DS6: =003048
+Where doing this man?
+Go on.
+What is it where making this?
+Excellent.
+Let's make shit take place.
+_
+62. DS7: =003299
+Hold please.
+_
+63. DS8: =003301
+Jade is connected with you?
+Where did she get the discs?
+Wait.
+So you mean to tell me she was able to connect with you in a timely fashion, without waiting until you were on the brink of annihilation?
+I've done nothing but wait for boys to play this game with me all day.
+First John lollygagging with the client, and then you with the server, downright filibustering my existence with unending fraternal melee.
+And yet a girl, one who didn't even own the game, was able to connect with you minutes after you connected with me.
+And there she goes.
+She HAS the karma.
+_
+64. DS9: =003302
+I was talking to someone.
+You remember the trolls?
+One of them messaged me, so I indulged him/her/it for a moment.
+I also took a moment to check on John.
+I can't see him anymore. Just his empty house.
+But I did talk to him briefly.
+I know.
+It's hard to say for certain.
+But I think I like it here.
+_
+65. JE53: =003423
+I guess one could use those words to describe it.
+If armed with a predilection for the inapt.
+Eerily iridescent?
+I certainly don't see any oily rivers.
+There's an ocean though.
+Yes, one of them is bugging me now.
+I thought it was odd timing.
+Color my curiosity piqued, I guess.
+Eventually.
+Pardon the envy I'm about to vent in your direction.
+For finding yourself at the mercy of a rational orchestrator.
+You don't feel weird when I watch you?
+I can't see you now, for what it's worth.
+Ok.
+Bye, John.
+_
+66. TP1: =003424
+Now I'm confused.
+On the surface, this appears to be another contrivance from a troll desperate to offend.
+But John said you wanted to be friends.
+And if you knew me, I suppose your remark could be construed as a ploy to elicit agreement.
+And soon, rapport.
+Not that it would actually work.
+So which is it?
+You smell words?
+Right. Aliens, I forgot.
+Gross.
+Still not sure if I'm being courted or trolled here.
+By later on, you mean now?
+Then you're in luck.
+Because you don't.
+John was told you were moving backwards through time.
+Was he gullible to believe this?
+Or is the fact that I'm asking just further indication of my own gullibility?
+Feel free to continue shifting the definition of the word to suit your convenience.
+Alright, let's continue milking my human gullibility and say I believe you. You're the sensible one who's decided to communicate with us in linear lockstep with our timeline in order to help us out.
+How can you help me?
+Yes.
+Yes.
+It's not so subtle, actually.
+A beautiful soulgrudge this cosmic was surely authored by the constellations.
+You mean, for instance...
+If a player were to learn she was a "Seer"?
+And this voice?
+Exiled from what?
+Paradox space?
+I'm starting to see that.
+So the exiles are on Earth? Does that mean our goal is to get back there too? To resurrect it somehow?
+You never answered the question. Where were they exiled from?
+What are agents?
+When?
+_
+67. DS10: =003488
+Right now?
+The spoils would sink.
+And then what?
+That sounds malicious.
+That was self defense.
+Murdering a wounded behemoth in its sleep strikes me as unseemly.
+Maybe you could replicate a pillow I could use to smother it.
+Make it a clean hit.
+I would use one of mine but they've all mysteriously gone missing.
+Does John know we've been sapping his grist yet?
+Hold on, someone's messaging me.
+_
+68. TN1: =003490
+Who?
+Why would someone wear sunglasses while using a computer?
+I know that anyone committed to such an affectation could only be striving to mask a severe insecurity complex, and likely harbors a crisis of self-image.
+I've been known to lend my charitable attention to such people, but only "bossed around" by them insofar as the psychiatric professional has cause to humor the demented for analytical purposes.
+Or maybe as a lab chimp commands the zookeeper's interest in its shit by forcing him to duck under its trajectory now and then.
+Oh, that guy.
+Tender spots?
+Your word choices are evocative.
+Is your design to couple with this gentleman?
+If you're trying to get his goat, you should know he only stocks the animal in the first place for ironic purposes.
+Then we're agreed; you are hellbent upon literally seizing his shrill, bearded livestock.
+I'll assist you.
+If you really want to burn him, I recommend poetry.
+Yes. They are the most delicious bunches we have.
+I suggest you serve these crisp bunches of honey and verbal annihilation to him as part of a complete breakfast.
+A deft cluster-bombing of this sort will leave nothing wriggling from the razed earth.
+Except sulfurous tresses while it cracks and turns black.
+Yeah.
+I suppose what I'm saying is this.
+Drop some hard, peer-reviewed motherfuckin' science on his ass.
+Some seriously government funded shit.
+It will destroy him.
+Your obvious cunning with words should depants Strider with such vivid empyrean tempest, a nether-regional sonic boom is certain inevitability.
+But even so.
+Consider me at your disposal to help craft a comeuppance of such unqualified devastation, the angels will weep pearlstrings of little urban fellows cantillating an unbroken chorus of Oh Snaps.
+uMMMM,
+_
+69. KM2: =003492
+I think you're shrewd to have recognized his ploy of sabotage, and you've earned my compliments.
+What is?
+What's that?
+Yes, but you said it wasn't the first time you spoke to me.
+We'll graciously omit my embarrassing skepticism however. 
+This conversation doesn't sound like your first either.
+And when exactly does your maiden encounter take place?
+So to clarify.
+If the matching of my first with your second is denoted by 1=2, then the sequence would be:
+1=2, 2=7, 3=1, 4=?, ...
+Why is it that when the subject of temporal mechanics is broached your sparing troll intellects etcetera etcetera.
+You mean based on the first impression I am apparently about to make in our next conversation?
+What could I possibly say that will leave such an imprint? 
+I guess being forced to cooperate with a stable time loop is the only plausible explanation for my remarks. 
+And what if my counter-counter measure is to choose not to transcribe this dialogue accurately in the future-first place?
+Unless I decide to copy it word-for-word! 
+So your trolling strategy now is to put idiotic words in my mouth through the machinery of temporal inevitability, and cause me to excruciate over how to subvert the transcription?
+While being perfectly up front about it?
+I'll admit, it's a more advanced tactic than I gave you credit for. 
+Mixed metaphor aside, usually ninjas don't announce what they're doing when they're doing it.
+Like when stalking an emperor to assassinate him.
+Or befriend him.
+But that's fine.
+I guess the only pointless question we haven't exhausted is, why?
+Why the convoluted artifice?
+So you're not only rigging the first impression I make on you, but orchestrating my revenge for the rigging as well? 
+That's an interesting take on it.
+But now I know for sure Dave isn't behind this plan.
+It's too complicated.
+You're awfully quick to his defense.
+Are you sure you don't have a thing for him?
+It's ok, bro. You can admit it.
+Ok.
+I'm going to talk to my dead cat.
+_
+70. JS1: =003526
+Is that all you have to say?
+I thought you were supposed to be more helpful after your resurrection.
+Like a ghostly spirit guide. Wise, if frustratingly cryptic.
+Actually, cryptic behavior would be welcome at this point.
+This is just inane.
+Should I report to the others that my Kernelsprite is a Lolcat?
+Maybe Dave can take some screen captures and overlay some poorly spelled captions.
+Assuming he hasn't already.
+What are you doing there, by the way?
+Oh. So you can talk.
+Who?
+I think there might be some tuna in the cabinets.
+Jaspers, the message you gave me years ago before you disappeared...
+What did you mean?
+Sigh...
+I don't understand.
+Is there some meaning to these responses, or are you just being obstinate?
+Am I asleep?
+Sort of.
+It sounds like you aren't exactly in complete command of this information yourself, so I won't press you on it for now.
+You're a pretty good cat, Jaspers. I missed you.
+_
+71. JH3: =003527
+I spoke with Jaspers.
+I didn't understand what he told me.
+He said I'll understand once I "wake up".
+For some reason this made me think of you.
+We wouldn't happen to be talking about awakening in a sort of breezy, philosophical sense, would we?
+Is my dead cat concerned with my enlightenment? Should I prepare to shed this coil of ignorance and suffering?
+I doubt I could reproduce the statements with fidelity.
+It was like listening to a five year-old describe a dream.
+The content manages to take a back seat to the simple heartwarming spectacle of the moment.
+I think I get it.
+I take it your "dream self" is wide awake when you sleep?
+And would I be out of line in additionally presuming this has been the case for many years, at least as long as I've known you?
+That was to be my next wild presumption.
+So when I wake up, can I look forward to being able to message people in my sleep too?
+Oh, right.
+I forgot about your robot.
+My short term recall seems to eschew the profoundly ridiculous.
+I'm not sure if necessity is a concept I'd associate with such a contraption even under some of the more obscure scenarios imaginable.
+But good to know I guess.
+Here's another question, which I'm sure will look stupid once I've finished typing it.
+If my dream self is asleep, does that mean she's dreaming, and if she is, who's dreaming the dream, her or me?
+Ok. How do I wake up?
+What stuff?
+Tell me what?
+Are you saying he said I defaced the walls of my room?
+While not appearing to be cognizant of the scrawlings?
+Like John?
+I really hope that's not what you're saying.
+It might freak me out.
+Hold on.
+_
+72. DS11: =003528
+Strider.
+I need you to do me a favor.
+Can you take a capture of my bedroom and send me the file?
+For no reason in particular?
+_
+73. JH4: =003529
+He's not answering.
+Can you hassle him via Sburb and tell him to talk to me?
+Bop him on the head with a puppet or something?
+_
+74. JH5: =003530
+Can you do it anyway?
+Did he tell you what I wrote on the walls?
+Wait.
+What?
+_
+75. DS12: =003543
+Already?
+It just sounds like you're making a rash decision based on temporary aggravation with a laughing puppet.
+I thought we planned to progress as far as we could before you went back.
+To gather information, and avoid repeating mistakes.
+We don't know Jade is dead for sure.
+Are you sure you're ready?
+You'll remember the plan we discussed?
+It still seems hasty to me.
+Maybe I'm just not as comfortable with time travel as you.
+After you go, what do you think will happen to me?
+Will I just cease to exist?
+Maybe?
+Is there a chance it'll continue to exist, and I'll just be here alone forever?
+I'm not sure which outcome is more unsettling.
+What do you think I should do?
+Ok.
+I think the true purpose of this game is to see how many qualifiers we can get to precede the word "self" and still understand what we're talking about.
+If my past self can wake up sooner, maybe I'll be the one to visit you first this time.
+I'll fly by and remind you you're already awake and don't know it.
+Good luck.
+_
+76. DS13; JH6: =003553
+COPY OF CONVERSATIONS DS11: =003528 AND JH5: =003530
+_
+77. JE54: =003610
+John,
+I never got to thank you properly for your gift. Yes, the words were there. Language comprising the familiar veneer of gratitude rubbing off with each tired favor traded for. A God bless to a sneeze or a few pennies cradled in a receipt. Perhaps it's the deplorable romantic in me, but I thought your present, and your friendship, demanded reciprocation surpassing by some degree the utterly meaningless.
+The proper thanks I thought would be a demonstration that your offering was not in vain. Yes, maybe some would take your suggested alternative to my gloomy preoccupations as a passive-aggressive jab. But I know you didn't mean it that way. In fact, I'm sure reading about it now is the first time the notion has occurred to you. John, please stop rolling your eyes. The letter is down here.
+The gift in this box is a resurrection. I used your present to thread life anew into a tattered heirloom. As long as I can remember, its black, greasy appendages have been tethered limply to its ratty, porous carriage. Too delicate to wash, too dear to discard. I used to love this rabbit. Now he's yours.
+I trust you'll find this to be adequately sentimental. Happy birthday.
+Rose
+_
+78. DS14: =003757
+I'm not.
+This book contains a genetic code.
+The gods from the Furthest Ring asked me to.
+How did you know I wrote a story about wizards, anyway?
+This story sounds suspicious.
+No, I don't actually mind.
+Too bad I missed him.
+I like wizards.
+What I don't like is my mother's obsession with feigning interest in them to antagonize me.
+No, I told you.
+No, I told you.
+It's one of the gene sequences locked in my subconcious.
+The gods say it's critical to destroy it.
+When I was asleep.
+Yes.
+When I flew to your tower, I heard them.
+They're far above, in the dark sky.
+Aren't you often distracted?
+By music and puppets?
+Have you ever looked into the sky without your shades?
+Maybe you should try it some time.
+You're the prince of the moon.
+I'm sure they've been meaning to seek a royal audience.
+What do all these dots mean.........
+_
+79. DaSp1; DS15: =003758
+DaSp - I just explained this to Other Dave.
+Do I have to explain everything to you twice now?
+Oh, I see.
+So instead of having to double explain, I merely have to put up with being double spied upon.
+What a relief!
+I know.
+But now it's not.
+You appeared to make it relevant by traveling to the past.
+I remember some things.
+I don't know.
+But the gods were pretty emphatic about it.
+Have you ever known them to be wrong?
+Is that why you always kept the music turned up?
+I guess we'll chalk another riddle up in the solved column.
+DS - Yes.
+Ok.
+_
+80. KM3: =003838
+Pardon?
+I'm a little busy.
+That sounds about right.
+Honestly, I was looking forward to playing along and reading your Dumb Rose script for our next conversation.
+But it turned out there was a perfectly logical explanation for it all.
+Imagine my disappointment.
+While I imagine yours, once you finally catch on.
+I'd love to explain in detail and cause some sort of time paradox.
+But you see - and this revelation may be as startling as any -
+I'm a little busy.
+Yes, that is definitely a conclusion you have just now drawn.
+The only thing left to do is ride out the next several conversations while you maintain that understanding.
+And while I maintain the chilly facade you have grown to so enjoy from Smart Rose.
+Which shouldn't be too difficult, because... have I mentioned?
+I'm busy.
+Goodbye.
+_
+Act 5
+_
+Act 5 Act 2
+_
+81. JE55: =004582
+Hi.
+Actually, building up your house has been one of the more trivial ways I've passed the time.
+Great swaths of the structure may be copied and pasted with little architectural consideration.
+I've only bothered to do so while in contemplation.
+It's relaxing.
+We have a lot of grist.
+I don't recall any hard figures off hand.
+Last I checked, more than a million units of several different types.
+Torrented between the three of us.
+Shared, through an application.
+I unlocked the disc from your registry, and deployed it.
+I convinced your nanna to install it on your computer.
+Before an imp threw it out the window, that is.
+My methods of persuasion have been improving.
+No.
+?
+Upgrades.
+No, your consorts were utilized for that.
+Yes. They seem eager to receive simple instruction.
+I'm guessing they find their way back to your house to allow the client player to remain productive while the server player is away.
+No, they aren't.
+Like I said.
+Coercion hasn't been much of a problem.
+Why don't you tell me what you've been up to first?
+I've been curious, but too preoccupied to inquire.
+I've noticed.
+Did you?
+Yes.
+I figured that out.
+Anything else?
+You did?
+Are you sure it was her?
+That was likely her.
+How was she?
+That's interesting.
+Did she seem happy?
+Fair enough.
+Investigating, mostly.
+Everything there is to investigate.
+Information hidden in the lore of our lands, concealed in ruins and riddles.
+I'm looking for whatever there is to discover about the game, and more importantly, whatever exceeds its boundaries.
+The cloaked traces of myth beyond its scope.
+Yes.
+It is, in principle.
+But it won't happen.
+It's not a matter of believing them.
+The writing is on the wall. Literally.
+This session was never meant to bear fruit.
+It's barren, so to speak.
+That's why you're our leader, John.
+Optimism through stalwart skepticism is a defect not everyone is lucky enough to be cursed with.
+Statements like that are also why you're our leader.
+Yes, kind of.
+Simple.
+The objective is no longer to win.
+To do as much damage to the game as possible.
+To rip its stitches and pry answers from the seams.
+We will snatch purpose from the jaws of futility.
+Are you ready to wreak some havoc, John?
+_
+82. KM4: =004592
+You're rambling again, Kanaya.
+_
+83. KM5: =004621
+Hi there.
+This is it, isn't it?
+This is the eight conversation between us, from your perspective.
+As well as mine.
+I've been looking forward to this.
+Yes.
+I have some questions for you.
+_
+84. KM6: =004622
+I'll start with a simple one.
+Do trolls have names?
+_
+85. KM7: =004626
+COPY OF CONVERSATION KM4: =004592
+_
+86. KM8: =004627
+Oh?
+Sorry to hear you were subjected to that.
+It was a little melodramatic in retrospect. Heavy-handed.
+But now it's stuck on that server forever, broadcasting the notes of very confused girl sifting through the aftermath of just another pedestrian apocalypse somewhere in paradox space.
+Have you ever written a message you regretted instantly upon sending?
+That line included?
+I'm sure you must regard the walkthrough as pretty quaint.
+As a veteran of the game.
+At the time?
+When exactly did you read it?
+_
+87. KM9: =004628
+Yes.
+It's faster this way.
+If there's one thing you and your friends regularly remind us, it's that time is not on our side.
+Yes, that has been effective.
+But you don't know everything, do you?
+My current strategy is comprehensive.
+Your notes have been helpful, but the facts you've supplied are being cross-referenced with understandings I already have, and data gathered by the sort of means presently on display.
+I still have more questions for you, which I will ask in time.
+Of what?
+Dark magic, you mean?
+I don't think they are as nefarious as you might imagine.
+Many of them seem to be intent on helping us.
+From their whispers in my dreams.
+Not much.
+But quite a lot in a failed timeline.
+And now and then, memories surface from that alternate reality.
+Vague memories, but unmistakable in familiarity, like spontaneously remembering a dream from years ago by some inexplicable catalyst.
+In that reality, they spoke to me in my sleep and told me much of what I needed to know.
+Including what to do to reset our timeline and create the present reality.
+I have assurances I'm on the right track.
+Surely you must have spoken to the gods by now.
+What did they tell you to make you so suspicious?
+It was?
+This surprises me.
+...
+Good question.
+You didn't actually answer my question.
+When was it exactly that you read my walkthrough?
+_
+88. KM10: =004629
+Before you first contacted me?
+What do you mean?
+My apologies for whatever misstep I may have taken to dispel that impression.
+It was an honest mistake, I swear.
+...
+To whom?
+You seem to have taken quite an interest in my wardrobe decisions.
+Are all trolls so fashion-minded?
+Maybe later.
+Well, we already know there won't be.
+That's nothing new.
+Wow, what?
+_
+89. KM11: =004630
+The outcome will happen one way or another.
+Whether you have something to do with it or not.
+You might as well ask me.
+At least when it happens, you'll understand what it is that's happening.
+And just maybe, if we're really lucky, so will I.
+I have a question for you too.
+Let's swap ignorance, ok?
+When?
+I have no idea.
+I can't see the future.
+I'm a disreputable Derse Dreamer, remember?
+But I promise that if I have a hand in it, it won't be because you told me.
+Does that make you feel better?
+Is that why you want to dissuade me from my admittedly zealous investigation to go play dress-up again?
+Because our time here is almost up?
+And you hope what's on the other side of the dark curtain for me is not some sort of corruption or damnation?
+That's thoughtful of you.
+To strive to pacify me as I scuffle down this black corridor.
+Is it?
+Oh.
+That's a pity.
+Who will make sure my soul isn't forfeit in service of gods then?
+What do you mean, "again?"
+One simple word can so easily begin a story in a very thick book.
+But I guess we won't open this one?
+Yes.
+I was wondering.
+_
+90. KM12: =004631
+What do you know about the ?
+Thank you.
+The transaction was very tidy.
+_
+91. EA1: =004705
+?
+Why do you keep addressing me as if I'm some sort of spokesperson for the reality of magic?
+You can't needle me into a defensive posture on the subject. I just don't care.
+Fine. You win.
+These are science wands. I am a charlatan.
+Thanks for the insinuation that I'm making an effort to project myself as a cartoon villain. What a compliment!
+Nobility? What are you talking about?
+No. What gave you that idea?
+That is exactly what happened. You figured it out.
+...
+You're a complete idiot.
+What?
+And how was that?
+Accidentally?
+Or on porpoise?
+Oh, right. Alien romance, I forgot.
+Pass.
+That's really sweet of you to offer.
+You want to learn magic?
+Sure. Let's begin.
+Consider this your first lesson in showmanship.
+_
+92. AB1: =004708
+Hi.
+Do you want me to stop using magic too?
+?
+Who?
+You sound frustrated.
+Like you know you can't change my mind.
+I presume your future footage of me has already verified this?
+You died?
+Revived via dream self, I take it?
+Hmm.
+What did they tell you?
+Is that anything like the ultimate riddle?
+_
+93. AB2: =004709
+That isn't exactly my plan.
+How do you know that?
+Could you please share your information with me?
+Well,
+Aren't you doing that regardless? Right now?
+O_O
+You have circuitry?
+Wait, don't go!
+You were actually interesting.
+_
+94. NL1: =004712
+Yes?
+Why, what ever could you want?
+What could it be? I am completely confounded.
+Is what?
+Who?
+What is the name of this mystery fellow you seek?
+It's ok. I understand.
+I think I have a more permanent solution.
+I mean purrmanent.
+_
+95. JS2: =004716
+Hi Jaspers.
+Jaspers, I am releasing you now.
+You are free to go do as you please.
+Not yet, Jaspers.
+It's a little complicated, but I believe I've embarked on another quest, one which surpasses the scope of the objectives local to this planet.
+I'm saying there's something more important to accomplish now. Something more important than creating a universe.
+Why?
+I see. I promise I will consider it seriously then.
+Thanks, Jaspers, that's nice to hear.
+It's hard to remember, but I'm pretty sure I felt the same way back then.
+See you, Jaspers!
+If you see my mother in the course of your travels, tell her I said hello.
+_
+96. JE56: =004804
+Did you know your planet was on fire?
+Yes. It makes a good light for reading, actually.
+Yes, I do seem to be shadowed by each mystery and its somber cortege of riddles, don't I?
+First of all, I should preface this conversation by saying I know exactly what you and Jade are going to do.
+The more of our future I've been allowed to see, the more I'm presented with a challenge I'm not very comfortable with.
+The trolls have tipped us off about what's to come without any regard for the consequences, as appears to be their nature.
+But maybe that's why it's worked for them.
+Maybe their indiscretion mingles with the cosmic noise that is the fabric of temporal uncertainty.
+Sorry, John.
+I'm just nervous about it.
+About whether telling you what you definitely will or won't do will alter a predetermined outcome.
+The result would be a splintered timeline, and we would all be sentenced to eventual oblivion.
+I'm presently optimistic this has not happened yet, and this is still the alpha timeline. I'd like to keep it that way.
+Yes, sort of.
+It isn't much fun, John.
+Living for months in an offshoot reality, waiting for the curtain to drop.
+Hmm.
+I guess I can permit myself to tell you this, somewhat definitively.
+Failing to prototype the kernel is the absolute worst thing that you could possibly do.
+Like, ever.
+We would come into possession of all the disasters.
+Exhaustive possession. Monopolization, in fact.
+Because the battlefield will not be able to heal, and then transform.
+It will not reach the stage which allows it to become ready to receive our universe.
+Yes.
+Because if it does not reach this stage, we will not be able to recover the treasure hidden in its core.
+Which is to say,
+You will not be able to recover it.
+When you go to sleep again.
+Yes. This is the treasure that will give us hope.
+But only if it comes into being in the first place.
+John, what is that sound?
+It seems to be a ticking noise.
+_
+97. JE57: =004821
+John.
+You were sleeping.
+Why were you sleeping?
+Everywhere I look, I see boys taking naps.
+You weren't.
+Ten minutes, I'd say..
+What were you dreaming about?
+I wouldn't imagine so.
+A black guy?
+Thanks for clearing that up.
+She's fine.
+But you're not.
+Remember how I said your planet was on fire?
+It did not.
+Do you see that pinkish hue behind you, bleeding over the horizon?
+I don't think the fire's rate of propagation is quite as fast as you're imagining.
+But the danger is still significant.
+Especially considering that your bed is sinking.
+Relax.
+Look to your right.
+_
+98. JE58: =004822
+This will at least buy you some time.
+If you stay calm, and we work together, we can get you out of this.
+I'm practically an expert at escaping fires by now.
+Yes.
+I have a crystal ball.
+Yes.
+I think so.
+No, it can only show me various locations in the present moment, as far as I can tell.
+My perception of the future has been informed by other sources.
+Informants.
+Whispering gods, memories sifted from dreams, cryptic readings from unearthed talismans, conclusions drawn from riddles deciphered - every gambit you'd expect a quest to extend to an emerging seer.
+Just as I presume an heir would be supplied with what's needed for his maturation, assuming he's looking for it.
+You should probably be doing what you're doing.
+I didn't know why you were asleep, did I?
+I have more pedestrian sources too, you know.
+Sometimes trolls blither tidbits about the future, and I can't help but take note of it.
+Just as they do with you.
+You also have access to the oracle clouds in Skaia, whereas I do not.
+Knowing the future is no remarkable feat here.
+It appears to be a fact of life.
+I'm not all that special, John.
+Really?
+I'm not actually trying to caricaturize a grim sorcerer.
+There's still a perfectly intact piece of my mind which realizes how ridiculous it is to be flying across rainbow oceans with a couple of magic wands and a salamander in a little cowl.
+And it wasn't without swallowing a little embarrassment that I revealed I was using a crystal ball just now.
+It's all pretty absurd.
+And yet,
+It's been fun, and above all, practical.
+For solving our problems.
+I still read books and tell jokes.
+John,
+That was mean.
+_
+99. JE59: =004823
+Swoon!
+I will do by best to occupy myself as benignly and unmagically as possible until you show up.
+.... "Happy?"
+What is this strange, unsad emotion of which you speak?
+Jokes?
+Are those the things people say when they want unusual noises to come out of the pliable crescent-shaped holes sometimes found in people's faces?
+I need to make a note of this.
+Excuse me while I open this tome bound in the tanned, writhing flesh of a tortured hellscholar. The screaming will subside shortly.
+Continue to not be alarmed as I record your advice with runes stroked in the black tears bled from the corruption-weary eyes of fifty thousand imaginary occultists.
+And then brace yourself for the fabled blackdeath trance of the woegothics I will slip into, while quaking in the bloodeldritch throes of the broodfester tongues.
+One is not easily shaken from the broodfester tongues, John.
+They are stubborn throes.
+Besides, you can't come to my planet right away.
+You will need to recover the treasure first, because it must be delivered to me.
+You'd probably be disappointed if I described it.
+Ok.
+It's called The Tumor.
+_
+100. JE60: =004824
+Sorry.
+I was preoccupied.
+Oh, let's say,
+Troll stuff.
+You know how it is.
+Incidentally, looks like you will have your own troll stuff to attend to shortly.
+You don't have a guess?
+I have to go, John.
+Talk to your trolls.
+We'll catch up shortly.
+_
+101. DS16*: =004936
+Hi there.
+Don't mind me.
+I'm just waiting for that guy on the pile of sharp objects to wake up.
+If you don't stop nakking, I will turn you into a thorn bush.
+_
+102. DS17: =004937
+You fell asleep.
+Orange Bird Dave killed some monsters and flew away.
+Jade fired a bullet at an imp and vanished.
+And you woke up.
+Yes.
+Yes, she's fine.
+You already are.
+Future you is.
+How was the nap?
+It's ok.
+I was being similarly wake duplicitous.
+No, my books are great.
+I can recommend some good titles for the next time you're asleep.
+Did you do anything on the moon besides rifle through my belongings?
+Such as remove your shades and turn your gaze Ringward, by any chance?
+What did you see?
+Horribleterrible?
+What were they saying?
+?
+_
+103. DS18: =004939
+That's good.
+It means they're reaching out to you.
+You're going to have to help them.
+Even if you don't like them.
+They're being massacred.
+Presently, already, and still to come.
+It means time doesn't work rationally out there.
+Nor does space.
+But that doesn't change the reality of the threat.
+You're underestimating the nature of the threat.
+At this point, the threat isn't to our session, or any given universe.
+It's to the perpetuation of reality itself.
+You wouldn't be saving them, per se.
+You'd be saving everything.
+_
+104. DS19: =004940
+They've revealed some of their secrets to me already, and given me a few errands to run.
+This is why you might have observed some unusual behavior from me.
+Once these convulsions of explosive laughter subside and finish rocking my very foundation,
+I might point out that you haven't really been as astute as you're implying.
+You've deliberately fogged your vision your entire life with ironic eyewear while awake, and while asleep, though perfectly alert, you've chosen to ignore your surroundings.
+But now that you've seen them, you have a choice to make.
+They will only tell me so much.
+They would like an audience with the prince of the moon as well.
+We are like the emissaries to what lies beyond this small bubble in their unfathomable dark foam.
+Derse skirts its edge, and during the lunar eclipse, we graze it, and that's when their intent for us becomes clear.
+I'm doing my part, but they have a mission for you as well.
+Listen to them.
+My understanding is,
+They will teach you how to navigate the unnavigable.
+The result should be a map.
+No.
+Something a little more astronomical.
+Like a star chart with no stars.
+Hence the challenge.
+To plot a course through the Furthest Ring.
+_
+105. DS20: =004941
+The power source of the first guardians.
+Yes, that's much better.
+What's the deal with it?
+I don't know that there is a deal with it.
+Beyond the deal you just described.
+It is what it sounds like.
+A huge sun out in the literal middle of nowhere, and it is bright green.
+It is simply,
+The .
+It is nearly twice the mass of our universe.
+Happy I could help.
+Yes.
+No.
+The geometry of the Furthest Ring is too complex.
+Remember, its spacetime is labyrinthine.
+In fact, it's not really accurate to call it spacetime at all.
+Since it is outside the domain of any created universe, where those properties have become instantiated and stabilized.
+It depends.
+It depends.
+The greater the distance you travel through it, the less reliably time flows.
+And the more time you spend in it, the less reliably space behaves.
+Time and space aren't as different as you might think.
+I think it means I'm supposed to know shit about the big picture.
+Which includes tidbits like that.
+But the insides of my shoes stay free from the grit of the minutia.
+No, I do.
+That depends on if John is successful.
+_
+106. DS21: =004942
+Yes.
+Nothing whatsoever.
+Yes, The Tumor.
+I guess so.
+I thought it was more fun that way.
+I thought it was more fun that way.
+Thanks.
+<black>The Tumor</black> is quite a large growth at the center of the battlefield.
+He won't be able to remove it without fully realizing his abilities.
+Can you promise you won't tell him?
+It would probably make him more nervous than he needs to be if he knew.
+It's a bomb.
+_
+107. DS22: =004943
+It is set to detonate precisely when the reckoning ends.
+This is how long we have to put this plan into motion.
+It could be a feature of any session not meant to bear fruit.
+A means to wipe out a null session rather than leaving it lingering in paradox space for eternity.
+Or it could be a mutation specific to our session.
+I really don't know.
+Not exactly.
+They've urged me in certain directions and guided my exploration.
+I've obtained some answers from them, but ultimately, this idea is mine.
+Plus, I have other sources.
+One in particular has been quite illuminating.
+I've been referring to him as an informant, when people ask.
+Which isn't often.
+No.
+It's a man who exists in another universe.
+He wants to die.
+Only as credible as the omniscient tend to be.
+Yeah, I think that's what omniscient means.
+But maybe I'll ask him about that, since he's the omniscient one.
+He says he doesn't lie.
+For some reason, I believe him about that.
+He's a convincing fellow.
+He no longer has a purpose now that he's done everything required to summon his master.
+As a first guardian, he's completely indestructible.
+Well, almost completely.
+His power is derived from the same source as Earth's guardian.
+And conveniently, that of our nemesis as well.
+When John delivers the tumor,
+And I do mean The Tumor,
+I and I alone will navigate the Furthest Ring.
+And I will destroy the sun.
+By which I do mean the .
+And in case it wasn't clear,
+I won't be coming back.
+_
+108. DS23: =004944
+Let's not be so dramatic.
+I was talking about my dream self.
+She's the one who won't be returning.
+That's true.
+Your outburst was pretty sweet though.
+If there's one thing you have more than any of us, it's time.
+So, whenever you like.
+As long as conventionally speaking, it's quite soon.
+Sure.
+And if you have trouble going to sleep, maybe you can ask your patron troll to trick the telepathic one into putting you to sleep again.
+Each of us seems to have a troll infatuated with helping us. Haven't you noticed?
+What about the psychopath who's currently helping you?
+Isn't that camaraderie blossoming into some sort of interspecies whatever?
+Just now.
+That would be John's patron troll.
+There's a juggalo one?
+She's contacting me now actually.
+Thanks.
+_
+109. KM13: =004945
+I explained this.
+The intent isn't true self sacrifice.
+Are you sure it's not because I'm sleeping?
+Shh...
+Blah blah blah!
+You're right, I can't explain why I go dark on your monitor.
+But I'm confident in my plan. I have it under control.
+Maybe it did?
+Maybe that's what went wrong.
+We figured it out!
+Oh?
+I'm sorry to hear that, Kanaya.
+What did you have in mind for this new and exciting adversarial phase of our relationship?
+!
+_
+110. KM14: =004946
+Is it too late to throw myself at your mercy?
+_
+111. KM15: =004947
+I see.
+Then clearly I will have to prepare for this soul sundering duel, whilst making my own funeral arrangements.
+What will herald the arrival of this swift and righteous thaumaturge?
+Will I be blinded by the fearsome lashes of light ribboning from the incandescent coastline of his beauteous aura?
+Should I borrow my friend's sunglasses?
+Yeah.
+I was getting that.
+You don't always have to tip your hand, Kanaya. You were doing well.
+Mh-hm.
+We take it very seriously.
+Wait, you did? Really?
+That's incredible. Well done.
+Oh, I knew exactly who you were talking about from the start.
+I must say, this little project pleases me.
+Do keep me apprised of all further developments.
+At least until my looming grimdarkdeath steals me away.
+_
+112. DoSc1: =005527
+It's quite warm here on Lohac.
+I think I've been patient enough.
+When will I receive further instruction?
+So,
+I could have contacted you at any time?
+I came away with the impression from our last conversation that our next would take place on your invitation.
+I was being polite by waiting.
+That's pretty smug.
+Well,
+Two out of three isn't bad.
+Can you use your limitless intelligence to figure out which ones I mean?
+This is stupid.
+Could we get to the point?
+You have a visitor?
+Who?
+You tell jokes?
+So, your visitor isn't setting anything on fire then?
+I'm really not getting this joke.
+I thought you didn't lie.
+Aren't jokes essentially humorous lies?
+At least, those like the one you just attempted.
+I think if you're going to risk tarnishing your record of honesty, you should probably get better material.
+Ok.
+So you're saying an inaccurate statement doesn't count as a lie, as long as you say "just kidding" later?
+What if it's much later? Is it still "just a joke?"
+Are you allowed to lie about playing pranks? If I asked you if you were playing a prank on me, would you tell the truth?
+I'm starting to change my mind.
+Yes. I think your joke was funny in retrospect. Actually, your whole shtick is pretty good. I'm warming up to it.
+Just to be clear,
+Was the assurance you just made a prank or a joke?
+Was that?
+The truth?
+Ok.
+Were you serious about wanting to die?
+Why?
+Why?
+But why not now?
+Then you know how this entire conversation will go?
+Is that true of all conversations you have? 
+Then why do you bother with the conversations? Obligation to predestination, as usual?
+It is?
+Hmm.
+That's a little creepy.
+Yes it is.
+It kind of is.
+That doesn't make sense.
+Was that the other joke?
+Heh. Good one.
+How young are the ladies you typically take a shining to?
+And does this mean you are attracted to me?
+Suddenly this conversation is kind of terrible.
+...
+Really.
+Oh my god.
+Can we talk about the scratch instead of this?
+_
+113. DoSc2: =005528
+Are you actually asking?
+Ah.
+Well, yes, I am.
+It's a large plateau shaped like a record. It's called the Beat Mesa.
+Is the game construct different in other sessions?
+You mean, in sessions where victory is no longer possible?
+Due to creating an unstoppable adversary? Who triggers the reckoning prematurely?
+Is that sort of emergency common?
+Ok.
+Then, it's like a panic button for the players to push once they realize the cause is lost.
+Who?
+Dave's bro?
+How do I finish it?
+Oh, right.
+The Green...
+Wait.
+The .
+I'd planned to take care of that later, once John had retrieved the Tumor.
+Whatever.
+What will the one who does it have to do? I should let them know.
+I see.
+This terminology can be very literal sometimes.
+I have needles.
+Then where do I get ones that will?
+This really seems more elaborate than you lead me to believe.
+I wish what I'd written in my private journals could be confined to your dark spots.
+You're being creepy again.
+What?
+Just,
+Please stop complimenting me.
+_
+114. DoSc3: =005529
+Fine.
+Then please at least try to sound more sarcastic when you do it.
+...
+Then the Scratch will be implemented later, by either John or Dave I presume?
+You used a male pronoun.
+I guess it makes sense that it would happen later. My understanding is that Jack will not be banished from this session until near the end of the reckoning.
+I don't understand.
+I thought that was the point of the Scratch, to open a rift in spacetime as it were, and banish him into the trolls' session.
+Hmm.
+Then why have you directed me to cause it?
+Does it have something to do with enabling you to die?
+I think it's disingenuous for you to behave as if I have not been misled.
+You say you don't lie, but what about lies of omission?
+Unless you're joking.
+Haa haa, hee hee, hoo hoo?
+Then I guess I'll start asking better questions.
+Will you?
+Ok. Noted.
+What exactly does the Scratch do, then? 
+Oh.
+That's it?
+Then,
+We all start from the beginning again? When John entered?
+What will happen to us? Everyone in this session now?
+This seems familiar.
+It reminds me of when Dave and I were trapped in the doomed timeline, and he left to change the past.
+The timeline ceased to exist, along with my dream self, who in a way became merged with my dream self of this timeline. I kept some of her memories.
+Is the situation similar?
+_
+115. DoSc4: =005530
+Then can you at least tell me if we will be successful in preserving ourselves after the reset?
+So if the Scratch isn't specifically meant to banish Jack from the session,
+And our quest to destroy the sun is meant to kill him,
+Why is the reset necessary at all, especially if it means oblivion for us?
+I guess.
+But it's a little disheartening to learn I'm now faced with not one, but two suicide missions at once.
+One to destroy Jack's power source and defend all of existence, and another to ensure our cosmic progeny at the price of oblivion.
+Immortality?
+Do you mean ascending to the god tier?
+I have reason to believe that I won't.
+The trolls have not indicated I will die on my Quest Bed, or that any of us will aside from John. Instead I've been given a more troubling and ambiguous forecast.
+Are you saying I will?
+Oh.
+Well, will I?
+Fine.
+Maybe this question will suit you better.
+Is it probable?
+That's a strange answer.
+Why such a precise probability?
+Two ways?
+By dying on the Quest Bed on my planet, and some other way?
+Is there another Quest Bed somewhere?
+Where?
+That's true.
+You mentioned immortality.
+Godhood makes one immortal?
+A god tier will live forever, with no caveats?
+How are those terms defined?
+Which sort of death will you have when I destroy the sun?
+Is this when you are going to tell me why you want to die?
+I sense it's not just because you're getting bored with immortality.
+Then why?
+That almost sounds like martyrdom. Are you sure it won't be a hero's death?
+Who is he?
+_
+116. DoSc4: =005531
+This doesn't sound like an especially admirable objective. Releasing an evil man, who is presumably more powerful than you, an already omnipotent being.
+Am I right?
+But in the process of killing him and you, I release your master, who is just as deadly?
+Then I guess I don't have a choice.
+Are you saying that I will succeed in the mission to destroy the sun?
+...
+I'm just trying to ask as many questions as I can. It's the only way to find the dark spots in your obstinacy.
+Can you?
+Your seeds?
+Oh. The cue ball. How did I not notice this?
+Hmm.
+Is that possible?
+_
+117. DoSc5: =005332
+How can I see through it? 
+Yes, if you wanted to be disingenuous and irritating. 
+Then it's a challenge!
+I pass.
+Ok, so what you mean is I should continue humoring your leading questions until you happen to ask certain rhetorical questions that contain information I need.
+That was a fact, and then a period. 
+...
+With a crystal ball?
+I already considered that. I don't think I can get the focus of the ball to "zoom in" tight enough on the cue ball's enclosure to read the answers. 
+By other magical means, I guess.
+Should I use magic?
+Magic is real.
+I've been using it.
+Use whatever word you want to describe it. I have magic wands, they are very powerful, and they allow me to be magic. Your questions are silly.
+Because I did not have the abilities before I made them.
+Could it?
+Is there an echo? 
+I don't know what you're getting at.
+How about another leading question?
+Some stuff.
+I'm guessing this is one of the rhetorical questions meant to be informative.
+So then, my answer should affirm how ridiculous that sounds, shouldn't it? 
+That wasn't even a question.
+Ok. Magic is fake, the wands are useless toys, and there is something else going on. Next question???
+What would I say to those short fables?
+Not much, except I gather the third is a story about me, and that there's a lesson you'd like me to take from it.
+That I should renounce my "allegiance" before my grimdark corruption is absolute.
+And while I'm at it, I should discard these useless wands, because apparently the power was in my little black heart all along. Is that right?
+I don't know! If you say so. 
+Yes. It has been mysteriously localized to my middle finger. Could the dark magics be at work AGAIN?!
+Friendship isn't an emotion, numbnuts. 
+I've been busy. I'll get back to them.
+And can we please stop doing the patronizing question thing?
+In exchange I promise I will discontinue my patronizing responses.
+The omniscipotent can do whatever they please. I guess I'm just asking you nicely to do me this favor.
+Huh?
+So creepy.
+Yuck.
+Ok.
+I don't know.
+With her eyes?
+I don't know what to ask anymore.
+I'm confused.
+I would ask what should I do next.
+What should I do next?
+_
+118. JH7: =005536
+Sorry for the delayed response.
+Answering seems to be what to do right now.
+Oh, right. I forgot I gave you the code for the crystal ball.
+And here I was thinking I could safely delay responding to messages without seeming like an ass, the way it usually works.
+Oops.
+Why would I be upset?
+Know what?
+_
+119. JH8; DoSc6: =005538
+I should have gone looking for her.
+Why didn't I?
+John was too. But he went to look for his father.
+It would have been normal of me. I can't remember what I was trying to prove anymore.
+You're doing fine.
+For someone raised by a dog.
+Or really,
+Anyone.
+Thanks.
+For some reason, despite all the danger, I never thought she was in any trouble.
+I never believed she would actually die.
+I grew up with the feeling that something more significant had always been meant for her.
+That she was a heroine displaced in some way, resigned to the inglorious duty of raising me, and preparing me in her way.
+I didn't actually need the ectobiological verification that she was like a mother and a sister at the same time. I always understood that somehow.
+And I felt she had knowledge and ability beyond what she let on. It was always intimidating, but nonetheless a source of respect which was childishly begrudging on my part.
+I think she was just waiting for me to catch up with her.
+But now I can't.
+Probably because my emotions have now ceded to anger.
+This shouldn't have happened.
+I already was.
+I was going to go to sleep, fly to a sun bigger than our universe, drop a bomb in it, and kill myself.
+So if my course of action is to change on account of my mood, it can only become less impetuous, don't you think?
+You never liked my plan very much anyway.
+I'm not sure if I did.
+Maybe it was a terrible plan.
+I made it without a full understanding of the nature of the Scratch.
+I could stop being so cowardly, for once.
+I could short circuit this endlessly expanding game of chess we're playing, just like Jack decided to do.
+Maybe I will go kill Jack myself.
+Right now.
+Probably.
+But the Scratch will wipe us out anyway, and reboot the conditions of our session.
+I suddenly don't feel much like sneaking through the back door of the Furthest Ring for retribution by distant super nova.
+Whether my existing plan was sensible or not,
+I may have been allowing myself to be manipulated by an omniscient being regardless.
+This is a private conversation.
+Private even to those who know it word for word already.
+Ignore him.
+Shh.
+Anyway, if it's true the gods have "selected" me for service, maybe the power they've given me will be sufficient.
+Maybe they wanted me to kill him all along.
+But I am.
+I'm fully aware I'll probably die and fail. Scratch happens, we start fresh. No recollection, no problem.
+They are enormous, ugly, and live in darkness.
+That doesn't necessarily make them bad.
+The cue ball.
+Yes. And he is right.
+It advised me to talk to you just now.
+So I guess so.
+What are you suggesting I ask it?
+So, you're saying I should ask it if the gods are evil?
+_
+120. =005595
+SEE LOG FOR "Seer Descend" IN GAMES FOLDER
+_
+121. DS24: =005776
+For what?
+_
+122. DS25: =005777
+You mean a canard of behemothic embellishment?
+Or was your resolve finally dismantled by the siren's song of all that flame broiled beef?
+I'll limit my establishments of reference to lumber mills and sugar shanties from now on.
+Also, there's a Burger King less than forty minutes from my house. I won't let this stand in the way of the new policy though.
+Certainly less delicious.
+Yes.
+_
+123. DS26: =005778
+I thought you didn't want me to analyze your dreams anymore.
+Maybe we can start by evaluating that troubling metaphor.
+We've already established that all of your dreams are packed with enough homoerotic symbolism to lift Freudian theory from the ashes of discreditation.
+Are you serious?
+I'm clearing my schedule. This is a major breakthrough.
+_
+124. DS27: =005779
+Go on.
+It's ok.
+They wouldn't be cliches if they didn't comprise the unanimously understood bedrock of phallic symbolism, with no other viable interpretation.
+Hm.
+Well, if I've learned anything from my extensive skimming over the Wikipedia articles on dream analysis,
+It's that this dream is very unlikely to have any literal significance whatsoever.
+It's probably not about dying at all.
+Yes. In fact, if you were on my couch that would have been my next question, as a licensed professional.
+"Mr. Strider, have you considered that what you actually dread is to have your urban rhythms exposed for what they truly are, which is, clinically speaking, just shy of 'da bomb'?"
+Listening to you conjure imagery of my mother in her underpants is definitely keeping us buoyed high above this swirling Freudian hellhole.
+Well done.
+What if you're wrong?
+Her not being your mother.
+Don't worry, you're probably safe. Luckily I can think of no literary or historical precedent for that sort of folly whatsoever.
+Isn't it?
+Why don't you tell me your more about your dreams?
+That's interesting.
+I've read about this. 
+Certain texts say singing from the unknowable void carries a message.
+That its recipient has been selected for a mission of supreme cosmic importance, that will result in your death and that of billions more.
+But one that is essential to the perpetuation of existence itself.
+It's not from a psychology text.
+Not astrology.
+More like,
+Zoology.
+Ok.
+Keep describing the dream, though.
+If the rest of it is incompatible with prognoses of the zoologically dubious, I will withdraw my insinuation.
+This doesn't strike you as an impulse of self destruction?
+So, if hypothetically you were to accept such a mission, or even insist upon one, it wouldn't be in the spirit of genuine sacrifice, but of escape?
+Aw. We were making good progress, too.
+Why did you have to go and remember?
+_
+125. DS28: =005780
+What do you think?
+If you're starting to remember, you should be able to tell me.
+Maybe I'm just as confused as you about it?
+Am I dead or asleep, Dave?
+Try to remember.
+_
+126. DS29: =005796
+Yes.
+What else?
+She's around.
+Her name is Liv Tyler.
+Take it up with John.
+What else?
+Do you remember what we decided?
+Not quite.
+Do you remember anything else?
+What about why you went to fight Jack?
+Are you sure?
+so was your decision a result of desire or obligation?
+I don't know much about the Light Shit, to be honest.
+I may have missed my chance to figure it out.
+Mostly.
+I'm doing what I can to jog your memory.
+Nice.
+So what about Jade?
+You didn't tell her your expedition with her would result in your death, let alone one she'd inadvertently cause.
+Or that she'd be stuck with the job of resuscitating you. Did you?
+Not if you're "supposed to," right?
+I guess you're right. No reason to make an effort to empathize if doing so comes at the price of oblivion. 
+It must be comforting to have your ASPD tacitly supported by predestination.
+Antisocial perosnality disorder.
+It wasn't already awful, believing you might be dead?
+So it's a disorder, a complex, and then a disorder again for good measure?
+Sounds like a positively delirious state of existence.
+Oh... snap?
+Might you loosen the purse strings on an "Oh no he didn't?"
+I guess I'm learning to be impressed by your sense of obligation to inevitable misfortune. It's a strange case of inspiration through futility.
+With what, exactly?
+Hey!
+These really do not sound like the words of someone ready to face his own death.
+The kind you don't wake up from, I mean.
+The unseen bitches callously conspiring to expect greatness from you?
+If that's how you feel,
+Then why did you insist on going on the mission to deliver The Tumor?
+Black-and-whitened for giant yin-yang bomb.
+_
+127. DS31: =005797
+Are you sure?
+Maybe you should try to answer the question. Why did you want to go?
+But it seems simple enough. A set of bearings to follow.
+See? The application pilots the moon. Change course when necessary. Anyone can do it, really.
+We talked about this. Debated, if you recall.
+I'm just seeing if you can remember. And if you're sticking to your story, about why you should be the one to go. 
+You're almost there, really. Just try to remember a little more.
+What happened after we decided you'd go?
+_
+128. DS32: =005800
+Hm hm.
+_
+129. DS33: =005801
+Careful.
+I just managed to quell my appetite after all that burger talk.
+_
+130. DS34: =005804
+I really am sorry for that.
+If it's any consolation, Liv Tyler came with me on the suicide mission.
+Which would make you feel better?
+If I could have chosen a method of sparing your life you might have found more awesome, I would.
+Is there an "ironic" way to do that?
+Does it matter if I took some personal satisfaction seeing you fall unconscious at the gentle glance of a soft cotton globe?
+...
+Yes to the first part.
+Not yet.
+Afraid not!
+I am wide awake.
+_
+131. DS35: =005837
+ I am piloting the moon through the Furthest Ring right now.
+At the moment, it's passing through a dream bubble. I am visiting your dream in person.
+Or, you are the one visiting me as I travel, in your sleep. If you'd rather look at it that way.
+Not entirely.
+Why?
+I'm already out here. Might as well go through with it.
+A major league wind up?
+It's always been pretty sad that I seem to know more about sports than you. Which is really saying something.
+It's probably just "ball hog."
+Oh lord.
+The last thing I want to do is come between a big man's thunder and any particular hole he might prize.
+That's not even close to being a thing in football. 
+Which prize is that?
+You mean the most vaunted accolade associated with the gridiron, known as "Stanley's Cup?"
+I'll take your word for it.
+How high do you even have to be?
+Does the officiator have a means of measurement on hand?
+I wouldn't want to be crushed by a nonregulation sport pile. 
+Poser?
+So not cool.
+I forget what we were doing exactly.
+Were we pursuing the hackneyed debate over who has the best claim to self sacrifice,
+Or seeing who can out-dumbass the other with obtuse sports lingo?
+I'm the one stalling?
+The moon is probably just a speck in the sky now due to your strange beefcake harangue. 
+I guess I could wake back you up, if you really want.
+_
+132. DS36: =005838
+But you have to promise to stay put.
+Don't try to stop me. Just let it go.
+It really makes no sense for you to go. This was never your preoccupation.
+They selected me a long time ago.
+Yes, they helped you chart a path through the Ring. And they will open that path for a pilot they have marked.
+I believe I fit the description. I'm not sure about you.
+I am the pilot. That's all there is to say on the matter.
+Help John and Jade.
+Then I'm not going to help you wake you up..
+I'll stall some more.
+I said not entirely.
+It's going to be a long ride through all this nothingness.
+Maybe I just thought some company would be nice.
+Before it's all over.
+So what'll it be?
+I'll wake you, but only if you promise to rejoin the others.
+Could you give a message to John for me?
+Aw, are you sure?
+I was looking forward to bowling another wicked googly with the yarn.
+Sportsways.
+Ok.
+What was that?
+Did you hear something?
+I thought I heard something outside.
+_
+133. DS37: =005839
+You don't remember him?
+Then I guess this isn't a memory.
+Not with us.
+Just me.
+You're still on Derse, remember?
+_
+Act 6
+_
+Act 6 Intermission 1
+_
+134. AM1; SC1; DS38; TP2; KV1: =006249
+Corpse party?
+Of course.
+I would describe it as an occasion marked by a great deal of jubilation at the expense of one or more well dressed cadavers. 
+Well, in my experience, a loved one, typically an elder, arranges to have the departed placed in a small box, and then forces you to stand in the rain all day.
+Then, presumably winded by all the deeply ironic catharsis, she gets drunk and passes out on the couch. 
+I'm going to agree with my fellow seer on this.
+_
+135. KV2: =006250
+It shouldn't be a problem.
+It's simple.
+We regroup, and then defeat him in person.
+_
+136. TP3: =006254
+Yes.
+Illumination of the road to victory for all is an asset considerably different from command over the outcomes of decisions made by individuals.
+How do you know your talents won't be critical in blazing this auspicious trail?
+That's because you're not me.
+_
+137. KM16; SC2; AM2; KV3: =006255
+Nothing yet.
+But reasonably soon, within a certain window, it will be time to leave.
+We will then pilot this meteor as fast as we can make it go in that exact direction.
+Nothing whatsoever.
+As of now, that way lies darkness and uncertainty beyond description.
+Trust me, it is.
+Just as you should trust me that by the time we leave, if we leave exactly within the designated window and are able to travel at nearly the speed of light, the meteor will trace a route through the Furthest Ring which will topologically resolve as a straight line.
+It will lead us directly to the new session.
+For a brief moment, the sun will be visible from that session.
+And we will be riding the chartreuse coattails of its photons.
+That's because it's almost impossible to do so voluntarily.
+If we were to head right now in the session's true physical direction, it wouldn't be long before we found ourselves traveling in just the opposite direction.
+This is not even to speak of the chronological peculiarities. After traveling some distance, we could discover we were suddenly tailgating our own meteor from several days ago.
+If we are particularly unfortunate, we might even collide in an intersection of spacetime with a meteor piloted by our future selves.
+And if we looked closely at that meteor before impact, we might notice a very large dent in it, which it originally suffered during the very collision we were about to experience.
+It takes precision and timing to reach your destination out here, and most importantly, the grace of the gods themselves.
+Hm?
+Yes.
+Yes.
+Don't be ridiculous. It won't take nearly that long.
+It'll only take about three years.
+Yes, two.
+And then fifty more.
+_
+138. KM17; KV4: =006256
+Why?
+But what if we need your help?
+It's hard to say.
+Does the repopulation of your species qualify as victory?
+These things aren't always clear cut. Some outcomes are for your own judgment.
+What outcome would you like the most?
+Ok.
+If you follow my advice, I can at least promise you will find yourself in the best position to determine whether that may come to pass.
+Between the two of us, you with your inexplicably heretofore unmentioned phosphorescence, and I with my nigh-reflective traffic cone orange sun-sari, the meteor should never be too dark.
+It's soon or never. But not immediately.
+Even if the route were accessible right now, it would still behoove us to wait.
+There's correspondence from John yet to arrive.
+And after that, we have to wait for one final guest to appear.
+Then we ride like the solar wind. The race will be afoot.
+Oh lord.
+Now what?
+_
+139. DS39: =006257
+Was that the one you mentioned had a pink heart on it? 
+Hmm.
+It's just that with the clarity afforded by my new abilities, it occurred to me just now that dead horse was likely the beautiful pet pony my mother gave me recently.
+It was crushed to death by your newborn ass.
+You bastard.
+Thanks.
+_
+140. KV5: =006259
+...
+_
+141. DS40: =006283
+The visitor I mentioned earlier.
+He will be traveling with us too.
+_
+142. DS41; TP4: =006284
+We should be able to get him some help along the way.
+But only if we leave immediately.
+Luckily for him, we have no alternative. Jack will arrive soon.
+When I said the race would be afoot, I was being literal.
+He will follow our trail, and match our speed.
+And since this is not the ideal scenario for a final showdown, the best we can hope to do is outrun him.
+_
+143. KV6; AM3: =006285
+Maybe it does. I'm not sure.
+But one good push in the right direction should be all we need.
+Troll Isaac Newton told him.
+That should help us greatly.
+Thank you, Aradia.
+_
+Act 6 Act 2
+_
+Act 6 Intermission 2
+_
+144. DS42: =006596
+Sup.
+_
+145. DS43; KM18: =006597
+No.
+Why?
+A thing?
+I see.
+I try to stay out of troll interpersonal politics. 
+I'm saying no such thing!
+Dave, don't be a dick. You're embarrassing her.
+(shh!)
+_
+146. DS44: =006598
+Research.
+We're trying to put all the pieces of the puzzle together.
+You are aware this meteor has many secret rooms scattered throughout, including libraries, right?
+Can Town?
+No??
+Wow.
+What a story.
+Primarily to gain a more thorough understanding of the situation we'll be entering when we arrive. 
+Oh my God.
+I've told you. I can't see the future!
+Ok. But not all of it. Only certain relevant pieces.
+It's a bit frustrating when people make that presumption about you.
+For instance, you are a Knight of Time. Since you have such mastery over time, doesn't that mean you should know everything about the future too?
+Right. So there are significant limitations on what you can know, governed by certain rules.
+That's how it is for a Seer too.
+But I will say that I have been able to use these abilities to assist with research.
+I can treat my finite glimpses as an additional source of information.
+If you combine that with the knowledge we've gathered from these texts, and things we've learned from our various encounters with the deceased, with a bit of inference and deduction, a more detailed picture is coming into focus. 
+Do you want to hear about it?
+Yes.
+Why not? It's been a year.
+It seems like all we've done on this trip so far is indulge in lavish interior decoration projects and screw around with mysterious "Can Town" initiatives, which may or may not be consuming valuable library resources as building materials.
+We could make at least some effort to squeeze in annual briefings on our objective.
+I think you'll find that when it comes to striving for a reasonable approximation of legitimacy, we are simply the most barely adequate there is.
+_
+147. DS45: =006600
+Are you talking to us?
+We can't even hear you mumbling over there.
+How's that coffee coming?
+Be sure it makes it to the table before it accumulates that strange unctuous film on the surface.
+_
+148. DS46: =006601
+No, it's something like an extensive journal.
+I'm recording everything we've been through so far, and detailed notes on everything we know about the game.
+I'm also using it to document our research, and extrapolate on the new session and players.
+Somewhat.
+I don't look at it that way.
+I'm approaching it from a standpoint of responsible historical documentation.
+Don't you think people in the future will want to know about our story?
+I think it could be a very useful resource some day.
+It could be helpful to others beginning their own quests.
+From what I understand, everything already has gone wrong before the game even started, in many different ways than ours did.
+There are indications of thicker political intrigue. Assassination attempts. And a usurpation of the throne more insidious than what we dealt with.
+But those examples still don't illustrate the fundamental fault with their session.
+Ours had a similar fault. It was a null session.
+Literature on the subject says null sessions are actually very common.
+It is any session resulting in failure, and as such, designed to result in failure from the start, due to Skaia's comprehensive "knowledge" of its own fate, and that of all it illumines.
+Biologically speaking, it's to be expected that null sessions far outnumber the successful ones. When it comes to reproductive systems, overwhelming redundancy is commonplace.
+A universe has a reproductive system that spreads many seeds, as it were, most of which never come to fruition. So we shouldn't feel too bad about our results, really. It was quite par for the course.
+But then, it would also seem that exceedingly few null sessions result in the birth of a massive green star fueled by two dead universes. For what it's worth.
+Well, yes. There's more to it though.
+The new session is essentially our session, rebooted with different parameters which also affected the original conditions of our universe.
+And strangely, it seems the new one is a null session as well, but within a much less common subset of all null sessions.
+This one is referred to as a void session.
+_
+149. DS47: =006602
+It's very simply a session in which nothing is prototyped before entry, at all.
+Hence, by Skaia's preemptive all-knowing and its influence on the rest of the incipisphere, there are not even any towers on Prospit or Derse built to receive the split kernels.
+See?
+I don't know what specifically led to the failure to prototype anything.
+But it doesn't really matter. As I said, the session was designed this way before they began playing. Any efforts to prototype may have been in vain regardless. Possibly subject to sabotage.
+Yes.
+It's just another way to create an infertile session. Though by a less catastrophic and bloody route we took to achieve the same result.
+By contrast, it leads to a rather harmless, uneventful session. Underlings remain unaugmented, and so does the royalty.
+And while this may sound advantageous to the players, it's a curse in disguise. The lack of prototypings which keeps adversaries unevolved has the same influence on the battlefield.
+Without successive prototypings, the battlefield will never reach its final form, which must be fertilized to grow a new universe.
+_
+150. DS48: =006603
+Instead, it remains in its most basic form, stuck in eternal stalemate.
+There is nothing players in a void session can do to change this. They are resigned to live out the rest of their days in a dead end session.
+It's a vast improvement.
+The new session is a blank slate, without a ridiculously short time limit for victory like ours had.
+There will be no time limit at all, in fact.
+Once we arrive, ostensibly that is when the nature of the session will change.
+It won't be classifiable as either a null or void session anymore. It will be something which, as far as I can tell, is unique.
+The fully matured battlefield from our session can be used to make the new one viable. The path to success will be made possible by a combination of efforts and assets from both iterations.
+Usually scratched sessions are absolute resets, and involve no direct influence from the first attempt at all. I can't find any precedent for our situation. 
+Yes.
+Pretty much.
+As long as there is an actual vacancy in the center of Skaia when we get there.
+_
+151. DS49: =006604
+I don't think so.
+Even if it were, it would be a trivial obstacle.
+But as it is, I think the forces opposing these players are clandestinely working toward the same goal as we are.
+From what I can tell, gestures of antagonism, while certainly posing legitimate danger, have been factored in as critical stepping stones to one destination shared by all parties.
+I don't know why this is, or what the motives are yet.
+The appearance is one of clear sailing ahead, but traces of conspiracy are everywhere.
+_
+152. DS50: =006605
+Yes, we will have to deal with Jack before all is said and done.
+And that will definitely be a major challenge.
+But it is not impossible. At least, not by design.
+When I said there would be no time limit in this session, I was talking about something more specific.
+There will be no reckoning.
+It's a logical consequence of any void session.
+The battlefield never evolves, and therefore the more extensive war between Prospit and Derse never takes shape.
+It is only when the Prospitian king falls in battle that the reckoning can be initiated by the forces of Derse.
+The meteors then rush to destroy the battlefield, while Skaia redirects them through defense portals for as long as it can.
+Thus, if there is no war, there is no reckoning, no meteors, and no imminent threat of failure.
+This is of course good news for Earth as well. During the reckoning, Skaia redirects all incoming meteors to the only place it can. Earth.
+So it turns out that players who initiate a void session are not actually condemning their home planet to an apocalyptic wasteland after they leave.
+In the new instance of our universe, Earth is just fine.
+Sort of. 
+Again: sort of.
+And it's not that there were no meteors whatsoever.
+Just the vast majority of the destructive onslaught never showed up.
+But delivering the temple to the site of the forge is still integral to jumpstarting the session.
+That meteor however could have been propelled through a portal by any means, not just via the reckoning.
+Yes.
+But they weren't flung through portals in their own session, nor will they be created there.
+They were created in our session, and sent back through our portals. Just like us.
+_
+153. DS51: =006606
+To understand what happened, it really helps to understand exactly what a scratch is.
+When John severely damaged the Beat Mesa on your planet, and sent it off to Skaia to release its temporal energy there, you could view it as a kind of "request."
+We were asking Skaia to change everything at a fundamental level, and we gave it the energy to do so.
+But Skaia is a very passive entity. It only "knows" and "sees," but it never quite "acts."
+When it is asked to change everything, there is only so much it has control over.
+In fact, it has control over exactly one thing. The defense portals.
+It can decide to send important meteors to different points in time than originally planned, thus creating alternate realities.
+Offshoots of promise, rather than futility.
+And it turns out the most important meteors of all tend to be the ones delivering the young players to their planet.
+So all it has to do to change everything is tweak their destination times a bit.
+All internally-prompted changes in the post-scratch universe are decided entirely by this modest adjustment to the parameters.
+It's a very simple concept, actually.
+Yet the consequences are dramatic. It results in not only a hard reset for the session, but a partial reset for the universe too, due to the many causal entanglements between a session and its originating universe.
+A variety of different time periods.
+The simplest way to way to look at it is to picture the original destinations of our two groups of four ecto-babies...
+And switch them. 
+Though this is just a slight oversimplification.
+While it's roughly true, Skaia had some peculiar whims this time.
+_
+154. DS52: =006607
+While most landed in time periods corresponding with the original group,
+It seems that two of the new players arrived four centuries ahead of everyone else.
+For some bizarre reason.
+But they're still apparently able to communicate with their coplayers through I guess some Trollian-like technology, and they're still able to establish game connections with the others. So this stands as an odd but not otherwise terribly significant detail.
+I'll give you a hint.
+It isn't us.
+And to think that usually I'm the one accused of knowing the future.
+_
+155. DS53; KM19: =006608
+You would find it less disconcerting if the players were alternate versions of us? 
+What?
+Meeting a deceased figure of authority as a peer?
+I honestly thought you would find the idea exciting.
+I know I'm looking forward to it.
+Not that I recall.
+But anecdotes like that just make me more curious to meet him, personally. 
+She's your mom too, though.
+You do realize we've seen her already, right?
+Months ago.
+In a dream.
+She was floating along in Derse pajamas, asleep.
+Yes.
+You're wondering why I didn't tell you? 
+You're specifically wondering why I wasn't forthcoming with an answer to your question at the time, "hey who was that choice babe in the pajamas?"
+You don't find it nostalgic at all?
+Retracing the steps of some of our Freudian semi-blunders in conversations past? 
+;)
+;)
+_
+156. KV7: =006609
+Maybe you should lie down on the couch. 
+_
+Act 6 Act 3
+_
+157. DS54: =006885
+(I think it's young Father-Grandad Harleybert.)
+_
+158. DS55: =006888
+(I'm not sure if that's a good idea.)
+(Ok, since I've clearly been outvoted on the matter, and democracy has spoken, I guess I should clarify.)
+(I'm not sure if it's actually possible.)
+(I don't think she's ever woken up before.)
+(You were technically already awake.)
+(Also, I don't happen to have any yarn on me at the moment.)
+(Do you have any yarn on you, Dave?)
+(Cheap cigars...?)
+(I just,)
+(Don't see how you can make remarks with such frequency that are so obliviously and so generically loaded from a Freudian perspective.)
+(It's flabbergasting, really. You never miss a chance.)
+(Cigars? Describing a scenario where you are both given birth to by your teen mother, as well as playing the role of the proud father in the waiting room?)
+(What should I make of the fact that the phallic imagery you've selected is not only inexpensive, but is administered freely and mirthfully to other expecting fathers?)
+(Or that the object standing in for the phallic symbol is something you're proposing to throw at our mother's head!)
+(Yes.)
+(But I don't think I know that spell.)
+(Not really?)
+(What?)
+(Um. Ok?)
+_
+159. DS56; KM20: =006889
+(Yeah?)
+(What?)
+(That's pretty much how she always slept.)
+(This includes finding her sleeping in unusual places.)
+(Yes.)
+(Yes.)
+(I know from experience, I guess.)
+(Not really. But it grows on you to some extent.)
+(Do you remember the timeline Davesprite was from?)
+(I still remember some things.)
+(It was actually pretty similar to the way things have been for the last year on this meteor.)
+(There wasn't very much to do.)
+(But there was a house full of liquor.)
+(What are they talking about over there?)
+(I think we might be missing something important.)
+(They're looking at us.)
+_
+Act 6 Intermission 3
+_
+160. =007163
+SEE LOG FOR "Act 6 Intermission 3 Part 1" IN GAMES FOLDER
+_
+161. =007298
+SEE LOG FOR "Act 6 Intermission 3 Part 3" IN GAMES FOLDER
+_
+162. DS59: =007302
+SLUUUUUUUUUURRRRP.
+_
+163. DS60: =007303
+Yea well,,
+I can her your rasps through your whipsers.
+*Whipspers...
+*Whip..
+......
+Zers.
+;)
+HIC!!!
+_
+164. DS61: =007304
+Iss,
+Prehhhhtay strong I geush?
+Whups. Guesh?
+*Guessss.
+Eheh.
+Pshf. ..
+Overaeact much?
+I'm yam completally in command of my faculities.
+Iii,
+Omg, you're right, I messed a golden opportutiny for a puticularly humoroush approach to this endeavor... :(
+I tried!!
+I tried making it...
+Is was HARD, Dave.
+(Sluuurp.)
+Yes, tha's the POINT!
+Apples are stalartingly difficulf to reproduce.
+We take for granned our ability to take idealized intsances ofeven quie comlicated objects and conshure them from the void.
+But compalexity implies a heavilly recombinatife nature.. So.. so many things are synesthized from a series of mushh simpler ideas!
+To those ennities capable of, of conceshualization and absraction, an apple is as closed to being a noshushnally irredushible object as it gets....
+Ahem. *Notionally,
+**Irr, ed, ducible.
+Tell me, hoch shot, what ideas would you combide to make and apple?
+Exaaalley/.
+Thusis why apples are sush indivisible symbols, when it comes to thefield of ideas and their reducshunistHIC!!!!! reductionishtic essence from the perispective of humans in paticular.
+Both from a stantpoint of cultrulal and mytholurgical singificence,, and from a pratical one a swell, if you happen to fine yourself acshualy trying to ENGINEEEer one.
+Why do you thing, HIC!!! Why do you think Adam mand Eve were punished for biting in to one??
+They attemped to pentetrate an indivisible unit, uf fundamenetal knowledge. To consume the interior of a thought whish cantot be reduced any further.
+This knowleshe was for BIDDEN..! Hic. So humanity was forever bandished to live in sin, and, hass strive ever sinse to redeem isself from the hubrinse of this innallectual foily.
+Hahaha! , Foily.
+*FOLLY. :)
+Or what about, the tale of Isaac Newdon under the tree?? He was BONKED on the head by an apple.
+Not reallyan apple though... an atomic idea. An emlemental unit of inspripation itself, id clocked him right on then noggin.
+And this indivisible notion colliding with hish awareness, much like.. . a high speed partical fired to create a nuculear chain reacation, jarred from the void a more profund unnerstand, HIC, ing of the intrinsic nature of nothiness. Thatis,. Gravivitation.
+Of course thess stories are acutually bullshit. They didn't happen in realaity. But thef act that they'rare bullshit makes them more inshresting.
+Men have crefted many stories that are bullshit out of symbols risen from the abyss of coinsciousness withou necesharily knowing whath e fuck they were doing or saying, as they flounered around for some truth.
+Bust in spite of themseleves they would for howefer briefly cross through a ray of light regarless. Becuss of the sbymbols. Dave.. The symbols hol dall the power.
+For a guay whos's supposedly, an I quote, "so cool,"
+You relly are almost comically up tight.
+Here, why don't you have some...
+What a prune.
+*Prude.
+Hic.
+AHAHAHAHAHAHAHA! ;D
+_
+165. DS62: =007305
+*Siiip.*
+Whaa?
+Meh. .
+Sheh was a lonelay single mom.
+I forgafe her.
+I's a date??
+Howww do yoi figure,
+It' sa date.
+Can't a girl jush look her best once an awhile?
+Ok....
+Mebey,
+I took a liltle sip totake the edge off?
+NoooooHIC!
+*No :(
+It's cool I'm, cool.
+Really!
+Mmm?
+!!
+_
+166. KM23; DS63: =007306
+HIC!!!!!!!
+Whas is it?
+No!,
+You look sho great.
+:)
+Yeah, I.. ..Ha ha, wow.
+Yo'ure prolaby right.
+I sarted soooo...
+Sooooooooooo,
+Whennid I start?
+What even time isit.
+(Its'snottaDATE!!)
+Whay do you ask?
+Becouse if,
+You want to kno, I relay fell,
+Quiiiiiiie fabuloush!
+HIC!!!!!!!!!!!!
+Esplain what?
+Our,
+Wait..
+Waat.
+Oh,
+Ohhhhhh.,
+Oh mey god.....
+_
+167. KM24: =007307
+I FORGOD ABOUT OUR DATE!!!!!!!!!!!!!
+hic :c
+_
+168. KM25; DS64: =007308
+I'm so sorry aaaah..!
+No!
+I said I swas stilt up for it.
+I aready, HIC, fucked up, by loshing track of time.
+I'mnot going to blow it again!!
+:D
+;D
+Ohn no, you don't have to do than...
+We can leaf you tou your slam poems in peace.
+Kayaya, why don't we go for a walk?
+_
+169. KM26: =007309
+Noupe!
+I honessly had not drafted blueprins for the evening.
+Assine from.,
+Gettin prettied up, aaand,
+Actually, you know... being puncutual abou my commiment.
+Wohoops.
+Omg.
+Kangaya,.
+I 'm.
+Soooo extenuated righ now.
+Hic.
+!
+Dish you hear something?
+Hum.
+Maybe yoush ould turn the lighst on...
+_
+170. KM27: =007310
+Yes.
+Shhh!
+..
+. .
+...
+.,
+,..
+Erh, nothing I gues.
+Annyway.
+I just thouh that,
+Tonight...
+We could just walk a round for a while an talk.
+About relly anything. Like...
+Our worls, or, the fushure, or,
+How you'are going to save your speshies. :)
+Just have a casusal, spoptaneous evening. I don' .. hic, I don't ses why dates have to alayways be,
+A felderal fucking eschew. Dono't you agree?
+!!
+_
+171. KM28: =007311
+Kaynaya.
+_
+172. KM29: =007312
+Can you kep a secret?
+_
+173. KM30: =007313
+I learned somethin earlier today.
+It was trobuling.
+Something about,
+Teresi.
+Aand,
+...
+And Gamshee.
+See...
+I bumped into him earliar.
+No no please, pleeasse don't get angry, and. ..
+Go on another vengeful clown hunting espedition, I...
+This is the point, this is was troubling me abou this.
+I don't want anyone to fight!
+You are?
+Yeahhh,
+Righ, well apparenly they..
+Are.
+An item?
+Blackways, I mean.
+The y'are spades dating. In theh shadowns... nobody knows. But me. An now,
+You.
+Yesh!!
+And it's been troubling me, the more I thing about it.
+All lot.
+Because it presends a prickly prolitical sishuation.
+Terezi's relationship with Karkant is already somewhat tenuous, with their... well from, what I've gathered, about their hishtory.
+And Dave! His involovment makes in even more complicated, and,
+I think, with Karkat being moirails to Gamzee, if he finds out Gamzee iss spades with Tetreezi, then...
+Correct me if I'm wrong but isin't that whole arrangemen getting into territory of social taboob?
+* Tabob. Escuse me.
+_
+174. KM31: =007314
+Right!!
+I don't no if it's my ser powers or what, but, HIC, I can see it unfolting all too clearly.
+Karkast finds out about it and flies inno a rage. It ruins hish moirlallegelleninance... I mean his moiraHIC!.. It ruins his diamonds with Gamzee, who thefore becomes less stable.
+And he villifies Trepezi as well, and who knows how she reacs. Or what happens with Dave for that matter.
+Would Dave actually be aright wich Terezi dating a psychotic clown on th side, even if its is a releationship centered around only enmity? I kinof doubt it.
+He could side with Korkat on the matter.. Not even tos peak of where your alignment is on the subjech of Gamzeen.
+Which is, what I fear. I'm afraid that,
+This could create a schisasm in our group, that we could all be torn apart.
+And I don't wand that!!!!!
+I want us all to stay friends, and jus be... peaceful togehter. :(
+I dun't know!!!
+Maybe I shouldn't intrefere with their kishmeshishit... kshimimishimesh.. Aw fuck.
+Their hate dating.
+Maybe it's..
+Just a wonderful thing for them. An I would beh hoorible to inerfere, with their..
+Beaufiful hate?
+The problem is, it's still soo alien to me. The idea of blapck romance.
+I try to understand, sometimes, like, more than inteclectually. I try to, put myself in the shoes of FEELING that an...
+It still dosn't make sense to me.
+I don't want to project my human valuesh on to an alien relationship I dispapprove of.
+No, what!
+Oh, puleashe. You KNOW you have to tall me now.
+Yeah??
+Oh shitch... I forgot about that..
+You're right, :o
+Yes...
+.
+hic.
+.
+YES.....
+_
+175. KM32: =007315
+KANAYA THAT IS EXAGLY WHAT I NEED TO DO!!! 
+Absoulutely.
+I haf never been so shure.. about, anything.
+Well maybe, almost anaything.. :), but yes.
+I believe you.
+But I wants to know.
+Can you teach me?
+There's so mouch I just don't understand.
+About your romanse, but,
+I'm soi curious.
+I try to understand the concept of either contentatious or plastonic relationships as something that...
+Can be parshed through the emotions assoliated with romance but,,
+It still doesn't realay compute to me.
+Tha's fine..
+Forget aushpipshit...
+Auspishtishimish..
+Good damn.
+Forget specificulty that right now,.
+I want...
+You to teach me evvverrreeything!
+Yez.
+_
+176. KM33: =007316
+I want you... to,
+Teash me ALL the quadrans.
+_
+177. KM34: =007317
+I want you toot,
+Tell me about your spabes,
+Your didamounds,
+_
+178. KM35: =007318
+I wank you to,
+Share wish me yur clumbs...
+And your hearst.
+_
+179. KM36: =007319
+I want..
+_
+180. KM37: =007320
+Yuouo....
+_
+Act 6 Act 4
+_
+Act 6 Intermission 4
+_
+Act 6 Act 5
+_
+181. RxLa1: =007521
+Mom?
+_
+Act 6 Act 5 Act 2
+_
+Act 6 Act 5 Act 1
+_
+Act 6 Intermission 5
+_
+182. KM38: =007956
+Humm?
+Ahaha.
+Kanaya, whas with this pregnancy shHIC! shit, are you trying to toll me something? ;)
+My civic dutie. ;)
+I have been desputized by the Mayor as the assasstant chief deputy of city plannning and preshervation.
+Kanya, I' am relaly SWAMPED in red tape here, do you think you coult please return whan I am no so busy, thanks!
+Either that, or file out a requisition form wish the zoning bureau.
+No, what would be terribule would be to bid farewell to this metreor before my critical adminitistrative work is complete.
+*LAFF.*
+God I just love troll words for things!
+Nushrition cylinders, thad's a good one. I forgot about that one.
+Maybe cylanders ins't stilted enough, though. What about.,.
+Tallcircles.
+;D
+I am docurmenting their original locations.
+Soo that we way relocate the city faithfully to our new home.
+Wheyrever that may be!
+_
+183. KM39: =007957
+Oh,, but you could not be further fromp the truth.
+The prestervation of Can Town has trenendous symbolic importance.
+We are ahll that's left of our respective races, Kanaye.
+We are the light of civivization!
+Is our responsipility to carry the torch through the abyss whilest keeping it lit, and hic...
+And set it pupon the harth of the newd world.
+Its light... OUUR light will spread throughout our creation, but only, Kayaka, ONLY,
+If we respect the light of civilazation itself. If we respect the light of DEMCOCRACY!!
+Civilitey/ Liberby. Reason. Efidication. Civilty.
+Rationality. Learning, Jutstice. Libersty. Hornor. Elucidution.. Civlity. Raison...
+This are the virshues which emboby the magnificence that is Can Town.
+Pfhaha! I just got it!
+"That'sh not all you managed to keep lit."
+That burn was siiiiiick! Hah,ahah I love it.
+_
+184. KM40: =007958
+I am ready!
+My god robe's on n evrything.
+Mehehe, Kanasta,
+U so
+Wordy. ;)
+Well.
+I wasnt' going to.
+But I starded to think about evereything.
+About meeting my mom.
+And I startled getting nervous.. .
+Hey now.
+Kapaya, I'm flatter. But I think you're might be selling the Mayor short.
+THIS GUY
+Lemme tell yuoi.
+THIS GUYY,
+is
+THE BEST ;D
+_
+185. KM41: =007959
+No but, Karkaya.
+The Mayor.
+I'mmm telling you.
+THE FUCKING MAYOR.
+Wat ay friend.
+And if I am? ;|
+Ohhhhh...
+He has his ways of letting is thoughts be known.
+He hays his ways.
+What issues?
+My indrescretion wich alcoholol?
+Or someshing else...
+I yam sensing we are tap toeing around a mixed bag of delicate subjex.
+Less talk about em ;).
+Kamaya, why do'nt we go aesy on the shout poles.
+I tolt you, to relax about the matribob.
+Have some faith in us, that we;re going to make everything work out.
+I have a vvvery goog feeling i twill all be fine. ;)
+But if I'm always happay then...
+Why IS it a problem?
+Im'm not following. I would LIKE to, wait am I...
+Have I been being a bistch to you witout realizing?
+Oh noh...
+I tried!
+I tried, Kakaka.
+But aushitspitschism... or whatever...
+Is's
+It sactually REALLY HARD!
+Whoops I'm sorry, Yakaya..
+.. Kayolo.
+., ...
+Papaya. Shit!
+Your name is so lovely, why can't I shay it!
+... .
+Yuo're right,
+My delinqancy has bend inexcusable.
+If you just help me fishish indexing an gathring up the rest of theze cans, we-
+_
+186. KM42: =007960
+THE BUBBLES VON SALAMANCER MEMOIRIAL LIBRARAY!!!
+_
+187. KM43: =007961
+.. .
+...
+,,. ..
+. .
+,....
+_
+188. KM44: =007962
+Are you going to brek up with me?
+_
+189. KV8; DS65: =008125
+We have a hypher gravitoy chambHIC. Ber?
+Don'ot worry guy,s
+I've vave a fealing evvvvvery thinks gogna work out. ;)
+_
+Act 6 Act 6
+_
+Act 6 Act 6 Intermission 1
+_
+190. DS66: =008182
+I seem to have been deposited on Lolar.
+Sure.
+Dave, I'm having trouble understanding you.
+_
+191. TP4: =008245
+Euurgh.
+_
+192. TP5: =008246
+Why does Lolar have to be so bright?
+_
+193. TP6: =008249
+I take it you are still detoxing from your overdose of appalling harlequin nectar?
+Do you need a turn with the pillow?
+You should try not to consume so much sugar.
+It's really bad for you.
+Good point.
+We seriously have to curtail our dependence on these respective liquids.
+The situation has become embarrassing for everyone.
+Maybe you and I should form some sort of support group.
+Isn't that what people do?
+I'm doing my best to dredge the memory of my dead civilization for salient protocol.
+I think that's what we're supposed to do.
+Once, when humanity was still a thing, those like us with similar problems would band together, smoke cigarettes, and psychologically dismantle each other.
+But like, in a positive way. 
+It surely will be.
+Do you have any cigarettes?
+I suppose we could use some sticks of your chalk in a pinch. These turtles probably won't know the difference.
+Well we have to do something.
+I'm supposed to be guiding our team to a fortuitous outcome with my fancy light powers.
+How am I supposed to lead and inspire from under a velvet pillow?
+Also, my girlfriend thinks I'm an idiot.
+So there's that.Sure they do.
+I foresaw that they would, magically, not unlike a majestic wizardress.
+I think.
+At least I'm pretty sure I did at one point, before getting repeatedly plastered.
+Don't you remember what I said when we first met?
+I said your abilities would probably come in handy, didn't I?
+Yeah. Maybe.
+You just need to...
+Dig deep down and,
+Believe in yourself?
+Why don't you give that a shot.
+I'm sure when the time comes, accessing your full potential will involve tapping into just the right platitude.
+I don't know. I'm too hung over to give good seering advice.
+You see? This is the problem.
+Hence the need for a not-entirely-ironic support group.
+Let's do it. I declare Rainbow Rumpus Rehab Town is now in session.
+Where the fuck is a gavel when you need one...
+_
+194. TP7: =008250
+Hey.
+My planet is nice.
+Well. In the shade at least.
+...
+_
+195. TP8: =008251
+No, the artifacts are new.
+I honestly have no idea what to make of them.
+I said, I honestly have no idea what to make of them.
+_
+196. JE64: =008262
+Thanks, John.
+I expect they will become THE central accessory to my new signature look.
+One that perfectly captures my personality and sense of style.
+Ostensibly forever.
+That was a nice entrance.
+You swept all those bothersome artifacts out of here too, it would seem.
+I couldn't even begin to speculate as to the nature of the disturbing phenomena.
+Could you?
+These are god tier abilities you are using, I presume?
+:)
+John, why do you think you're the only one who can remember the missing events?
+_
+197. JE65: =008263
+What power?
+A magic thing?
+Pirates??
+Blurry.
+...
+Sure.
+Hmm.
+Can you demonstrate this ability?
+Even so, it will be worth noting if you're able to refine the ability.
+Could you please keep me informed of any developments?
+And while you're at it, maybe you could tell us exactly what happened just after we arrived.
+_
+198. JE66: =008264
+Tell her...
+Tell her I'm sorry for being such a shitty daughter?
+Wait, no.
+That wouldn't make any sense to her.
+This girl has no clue what a shitty daughter I was.
+_
+199. JE67: =008265
+I don't know. Just tell her whatever you think I should say.
+I'm not exactly in top form here, John.
+And in any case, no one's ever accused me of being an awesome candidate for the Hallmark writing staff.
+Just...
+Promise you'll find her, ok?
+Thanks.
+_
+200. JE68: =008268
+JOHN, WAIT!
+_
+201. JE69: =008269
+COME BACK!
+_
+202. JE70: =008271
+I thought of something to tell her.
+_
+203. JE71: =008272
+Dammit!
+_
+204. =008273
+Uhnf!
+Ow.
+_
+205. TP9: =008274
+Where did my velvet pillow go?
+_
+206. TP10: =008306
+TEREZI, WHAT ARE YOU DOING OVER THERE?
+_
+207. TP11: =008307
+Alright, then.
+_
+208. TP12: =008308
+What exactly are we supposed to be doing here?
+_
+209. TP13: =008309
+Why did she group the two seers together?
+Was there a point to that?
+What is her goal with these divide and conquer tactics?
+Everything is so unclear.
+Threads leading to the most fortuitous outcomes have gotten so badly tangled.
+I can't tell if it's the hangover, or if something else is happening.
+Something out there...
+Unaccounted for.
+Why can't I see it?
+Why have I become so blind again?
+No offense, Terezi.
+NO, I'M TALKING TO MYSELF!
+STOP MAKING ME YELL! I STILL HAVE A HEADACHE, AND SO DO YOU!
+_
+210. =008310
+Why am I talking to myself?
+I think I've spent too much time around Dave.
+I've also probably spent too much time sharing his genes.
+Why must our family tree be plagued by so many shameless soliloquists?
+I wonder if our young parents are like this?
+I wonder if I will ever find out?
+And what should I do in the meantime?
+Should I...
+Should I really work on completing my personal planetary quest?
+That whole thing where I learn to "play the rain?"
+I guess I should feel exhilarated to have the chance again after all these years.
+Of course I should.
+But then,
+Why does it sound like such a drag?
+I haven't played the violin in a long time.
+I wonder if I even remember how.
+Honestly I can't recall ever feeling less motivated to satisfy a looming obligation.
+I think my quest was fundamentally bound to the nature of this land, which was customized to the profile, needs, and potential for growth of a thirteen year-old girl.
+But I'm not that person anymore.
+What if I
+What if I just
+Didn't bother doing it?
+Like, ever?
+Would anyone notice my dereliction?
+Would the powers that be strike me down where I loaf?
+What if I just said fuck it?
+What then, silly pink tortoise shells? Hmmmm??
+I guess I should stop procrastinating and have This Conversation with Kanaya.
+_
+211. KM45: =008311
+So.
+Have you made any progress in determining what our malefactors want from you and Karkat?
+Well?
+And?
+...
+Are you still there?
+Speak to her about what?
+I see.
+At least it would seem you have a project.
+Terezi and I have received no such instruction.
+Hello?
+Kanaya, do you want to talk about my problem?
+_
+212. KM46: =008312
+The one pertaining to my substance abuse.
+Are you busy?
+You seem preoccupied.
+What are you doing?
+You're buying things?
+What things?
+Like what?
+And from whom?
+Are you in a consort village?
+Don't those shops only sell jars of bugs and such?
+You're not buying jars of bugs, are you?
+Kanaya, I'm confused.
+Could you be a little more descriptive?
+Your problem?
+Don't you mean my problem?
+_
+213. TP14: =008314
+TEREZI, WHERE ARE YOU GOING?
+_
+Act Act 6 Act 2
+_
+Act 6 Act 6 Intermission 2
+_
+214. DS67: =008555
+Yes?
+Could you elaborate?
+_
+215. DS68: =008556
+Then let us bounce.
+_
+216. DS69: =008635
+DAVE, WHAT ARE YOU DOING?
+_
+217. BGD1: =008651
+Mr. Strider?
+What are you doing to this troll, if I might ask?
+_
+218. BGD2: =008654
+Gotcha.
+_
+219. GM2: =008709
+GAMZEE!
+STOP THAT!!
+_
+220. GM3: =008710
+Or, wait.
+Is this some sort of blackrom thing?
+I certainly hope not.
+_
+221. GM4: =008711
+Think, Lalonde. Think!
+What did Kanaya tell you about this quadrant?
+Does it really involve such gruesome fisticuffs?
+I...
+I can't remember!
+I was probably drunk during that particular lesson.
+What am I saying.
+I was drunk for all the lessons!
+Ugh, what a disgrace.
+I am the actual worst auspistice who ever lived.
+THE ACTUAL WORST!!!
+_
+222. GM5: =008729
+ENOUGH!
+_
+223. GM6: =008730
+I don't care if it IS some sort of grisly courtship ritual.
+THIS HAS TO STOP!
+_
+Act 6 Act 6 Act 3
+_
+Act 6 Act 6 Intermission 3
+_
+Act 6 Act 6 Act 4
+_
+Act 6 Act 6 Intermission 4
+_
+224. RxLa2: =008877
+W,
+_
+225. RxLa3: =008878
+What...
+Happened to me?
+Oh.
+That's nice.
+*Cough.*
+You saved me, didn't you?
+Thanks.
+But,
+She's gone, isn't she.
+For good, I mean.
+i saw her die.
+And.
+It's a shame how...
+*Cough.*
+A shame that I never even...
+Got to tell her...
+I loved her.
+_
+226. RxLa4: =008879
+Kanaya.
+But...
+You too, mom.
+_
+227. RxLa5: =008880
+You too.
+_
+Act 6 Act 6 Act 5
+_
+Act 6 Act 6 Intermission 5
+_
+228. VS1: =009357
+When exactly is this supposed to happen?
+And she's...
+Unhurt?
+Will she remember our brief encounter?
+_
+229. VS2; KV9; KM47: =009358
+We did.
+Karkat, don't you remember when I walked everyone through this?
+I was making extensive notes in my journal. When I looked away for a moment, you and Dave wrested the tome away, and began scribbling phalluses in it while giggling like children.
+I'm glad at least one person here appreciates this categorical certainty.
+(Whom do you think I was referring to?) ;)
+_
+230. JE72: =009381
+Hi, John.
+Yes, you did it.
+I'm still a bit unclear on exactly what it was you did, but whatever it was, you sure did the hell out of it.
+Thank you for returning with my m-
+My, um.
+M,
+My Roxy.
+Thank you for returning with my Roxy, is obviously the remark I meant to say, and is the statement of a reasonable person.
+_
+231. RxLa7; KM48: =009393
+Sorry about what?
+I can't believe it either!
+I know what you mean.
+That is more than ok.
+As long as you are willing to similarly excuse the spectacular demise of my capacity for artful self-expression.
+Dirk?
+He sounds like a hell of a guy.
+Well, I'm told he should be arriving here in a little while.
+If he's anything like Dave's late older brother, and if he's anything like me, which he apparently is, then this is when I'm guessing the real party will begin.
+I want to know things about him.
+Such as, if he shares his elder counterpart's avarice for soft puppet ass.
+And if that, combined with his myriad, vaguely unsettling psychological peculiarities, could occupy a dedicated team of therapists for years. 
+Hmm.
+Knowing this amuses me, for some reason.
+But mainly, there are things I want to know about you.
+I presume there will be plenty of time later to hound my biological father for the dirt on his proclivities.
+Everything!
+I think the main difficulty in deciding what to ask is in sifting questions I would have for my mother, that is to say, the woman who raised me, from the questions I have for you.
+Ok.
+Do...
+You really like wizards?
+Yes?
+...
+I see.
+As odd as it sounds, that actually does go pretty far in letting me know something about both of you.
+My relationship with her was complicated.
+But I've come to see that as mostly my fault. I was too young to understand her.
+Ah, right.
+I think I'm going to have to call the contest early. Yours is the more interesting biography, by quite a lot.
+She wrote hella books about wizards?
+It sounds like I fumbled into the wrong line of work.
+There's no money in this Sburb business.
+Well, there is. It just comes in incredibly stupid denominations, which are not particularly useful.
+By the way, this is Kanaya.
+Sorry for the combination of bad manners and general dumbfoundedness which precluded a more timely introduction.
+Welcome to Maryam City, population, a whole lot of great remarks like that.
+Did you?
+Could I read them?
+Hey, you got to read mine!
+Did they really??
+Oh.
+I can live with that.
+It's always been one of my professional goals to write tales of magical men so provocative, they would cause the permanent and unceremonious dissolution of at least one prestigious award.
+I like weird!
+But I never even wrote the masterpieces you read.
+I think you may have a view of my abilities which I haven't earned yet.
+Really, I'm not that good.
+I have my own story drafts which you can read if you like.
+They're nothing special, frankly.
+_
+232. RxLa8: =009394
+_
+233. RxLa9: =009394
+Well, you died too.
+Yes, while pushing me out of the way of a fork.
+So, thank you for that, retroactively. And... to a different version of you.
+Yeah.
+We didn't get to exchange even a single word before you were gone.
+All I could think was, "How can this be happening again?"
+Luckily the sense of misery was short lived, though.
+It wasn't long before I was informed the incident was part of something bigger taking shape.
+And that John was on his way with a different version of you.
+I had no idea what "a different version" actually entailed, but I wasn't about to quibble.
+I was so relieved.
+You did?
+A funeral...
+Wow, that,
+Sorry for this, if it comes off as odd, but,
+That is so "mom" of you.
+M-hm.
+Me too.
+_
+234. RxLa10; KM49: =009395
+I don't mean to be too analytical about getting to know you, really.
+I guess comparisons are little hard for me to avoid, since the adult version of you played such a significant role in my life.
+So I can't help seeing the similarities when they are there.
+But also you are so clearly your own person, shaped by your own experiences, and that is the person I would prefer to get to know, rather than a young avatar for the memory of a departed parent.
+Yet this is the context which somewhat inescapably colors my perception of what you reveal.
+So while some observations are in the vein of predictable, charmingly so, mind you...
+Others I regard as surprising.
+Well.
+You aren't,
+You don't quite seem like a person who...
+Er.
+I don't want to ask anything that would sound rude to you, or spiteful to her.
+Because I don't feel that conflicted about this anymore.
+Particularly since I had my own troubles with it. So it would be pretty hypocritical.
+Let me back up a little.
+It was a long ride on that meteor.
+One experiences things over a few years, given a lot of time to think. Changes and such.
+About half way through, I started thinking more...
+About mom. And about you.
+Knowing that I'd probably meet you, and. I don't know. Live up to the experience?
+It's silly, but I'm guessing you understand what I mean.
+Basically, I was just nervous.
+And it was all mixed up with feelings of conflict and remorse over my mother.
+Who, to my hazy preteen recollection, never wasted a day in my life on sobriety.
+She and her habit put all those days to quite effective use, actually.
+And I don't even quite remember the thought process that led to this, but,
+I sort of ran with it too?
+The habit, I mean. For a while at least.
+I was still distraught about losing her. And wanted to understand her.
+To connect with her, in some way. And I guess that was the only idea I had.
+And on some level, I think connecting with her was also a way of preparing myself to meet you...
+Even though that probably makes no sense.
+Since you aren't literally her, and don't share all her...
+I guess I shouldn't speak for you, though.
+Um-
+So... you,
+Pumpkin eaters?
+!
+Yeah, I...
+Wait, what?
+Clowns?
+Ok. Yes, I'm sure my mother knew the end was coming too.
+Knowing that helped put a lot of her behavior in context for me. I was always too young to understand.
+Truth.
+Yes.
+It sounds like your Rose had an incredible career, but all things considered, I prefer being kid alive sexy lady me.
+Ultimately, I concluded the same thing.
+I decided it wouldn't be a very dignified way to make an entrance.
+Or for that matter, a very constructive way to help out in a struggle to preserve reality.
+Luckily, I was able to cut it out a while ago. I admit, it wasn't easy.
+But it helped a lot to have people around looking out for me.
+*Poke.*
+I never had "IRL" friends before this trip.
+It's interesting to observe the various ways they apply themselves to your benefit.
+Some people are around to make you feel like you're worth sticking with, even when you fuck up.
+And some people are around to kick your ass to make sure you don't.
+No, Karkat was mostly preoccupied with his own... shenanigans.
+The yelling is deceptive. He's a rather private person.
+Vriska, however.
+She really is quite an extravagant bitch.
+But it turns out people like that tend to have some convenient assets.
+Such as, the sheer force of personality to keep a bunch of idiots from falling apart.
+Don't get me wrong. It's quite annoying.
+But... useful.
+Let it be a lesson to us all.
+_
+235. RxLa11; DS70: =009396
+I'm considering it right now, and yes.
+That noise... it is SO tight.
+:')
+Damn it, Dave.
+_
+236. DS71; RxLa12: =009402
+Dave, we were sort of in the middle of something here.
+A series of heartfelt conversations of a personal nature.
+One cannot simply be boned up on shit such as this. You had to be there.
+Wizards, Problems, Feelings. It was your standard tale of two estranged mutual mothers.
+Any questions?
+Ok.
+Can you maybe sit over there for a while and write them all down?
+Utterly destroyed again, by her superior sense of reason and decorum.
+Though I do wonder if her perspective would be different if she'd ever had to manage relations with a "twin brother".
+It would probably get a little weird.
+Dave.
+DAVE!
+(Sigh.)
+I'm perfectly happy serving as a spectator and occasional officiator of this conversation.
+It's quite entertaining to behold, really. I love watching how different personalities collide with each other upon meeting.
+Neither of you is failing to disappoint.
+_
+237. DS72; RxLa13: =009403
+We're waiting, Dave.
+I'm also officiating.
+I'll have to hold you to the question, or throw a flag.
+Remember the sports?
+My, how quickly we forget the sports.
+_
+238. DS73; RxLa14; VS3: =009404
+This is the lightning round, Dave.
+We didn't make the rules.
+Anyway, I'm ready to blow my Referee's Sport Whistle™ if you don't answer before the Commercially Endorsed Game Clock expires.
+Dave, even I'm having less trouble referring to Roxy by her name consistently, and I was the one who grew up knowing her as my literal mother.
+What is going on with you?
+You're right. How could anyone possibly read anything into that sort of repeated slip-up.
+What if you're making her uncomfortable?
+I hope it is similarly ok with you if I make the conscious decision to refrain from calling you that ever.
+Unlike Dave, I've taken great pride in the meticulous maintenance of my internal filter.
+I don't think I have the same luxury he does.
+Humiliation just makes my demons angrier.
+To be fair, Dave's game is pretty flimsy.
+He's been jacking my swagger for years. He only pulls it off because he's funny.
+And to be even fairer, I'm not actually much of a psychoanalyst.
+I know just enough to know that I barely know anything, and probably would have benefited from, I don't know, "college", or something.
+That's quite a scientific way of looking at it.
+Maybe it's even true?
+Holy shit.
+Can someone come push this nerd off the lilypad?
+Cringeworthy rap notwithstanding,
+I do recall hearing him babble about wanting to be a scientist on more than one occasion.
+If the world hadn't ended.
+What was it? Archeology? Paleontology?
+I don't recall my thoughts on higher education.
+My passion for the subject I think was more a contrivance of a very young girl with misplaced conviction in her abilities.
+I probably thought I could just figure it all out myself and skip the academic coronation.
+I don't think much about it anymore.
+Possibly because there's no one left to analyze, except for the modest population of this frog disc.
+I don't know.
+What is there even to consider doing with godhood BUT concern oneself with evildoers?
+Hm?
+I... guess so?
+I'm not sure if I have the inclination, and realistically, there isn't even much time for that, is there?
+We're supposed to be fighting adversaries imminently.
+I can't squeeze it in before the battle.
+And after, we'll have supposedly "won", so what would even be the point of doing it then?
+Something always rubbed me the wrong way about "My Quest".
+I don't even like the phrase. It's uncomfortably formal, and a little foreboding.
+I think the regimentation of it all always struck me as unpalatable.
+Like consigning personal growth to the completion of a glorified, myth-heavy rat maze.
+I probably won't.
+_
+239. RxLa15; DS74; JS3; RS1: =009405
+...
+Wait.
+Dug... up?
+From... where?
+_
+240. RxLa16: =009406
+THIS IS SO STUPID!!!
+_
+241. DS75: =009407
+HAHAHAHAHAHAHA!
+I'm sorry! I can't sit here and pretend to take this seriously!
+I guess so???
+Yes. I'm FINE! This is just SO DUMB!
+My powers let me see fortuitous outcomes, but I didn't see this coming AT ALL.
+It doesn't register as fortuitous or otherwise. You know why?
+Because it's COMPLETELY MEANINGLESS!
+HAHAHAHAHA!
+NO!!!!!
+THIS ISN'T LIKE THAT!
+Trust me, Dave. I'm not grasping at straws here.
+My abilities tend not to leave such things to speculation.
+This development makes absolutely NO SENSE!
+Not for us as a group, and DEFINITELY not for me personally, or HER for that matter!!!
+How could this possibly mean ANYTHING for my growth or personal development in ANY WAY?
+This almost makes it official.
+I have no comprehensible path. There's nothing to overcome, no lesson to learn, no cathartic light at the end of this preposterous tunnel.
+Not for me, at least!
+I seriously have the DUMBEST arc anyone could conceivably imagine.
+_
+242. TP15; DS76; JE73: =009412
+Is Dave saying inappropriate things about John's mother over there?
+No comment.
+_
+243. VS4: =009432
+ME.
+_
+244. JE74: =009443
+Condesce.
+And yes.
+_
+245. JE75; RS2: =009485
+?
+I can see the hugs. I don't understand the pile thing.
+Ah. Yes, vaguely.
+It's been a long journey, John.
+I believe one of the most valuable lessons that comes with growing up is gaining the wisdom that gently informs you when it's time to retire a meme.
+Surely you mean the dear Viceroy Bubbles Von Salamancer, right?
+And instead of you, you mean me.
+That's when the real tears will flow.
+He.
+Oh?
+That sure is a thing that would be dumb, if true.
+_
+246. JC1; RS3: =009486
+Hi, John's hot mom.
+(Aw shit.)
+(God damn Dave's contagious-ass Freudian boners.)
+_
+247. RxLa16: =009487
+I like your chances too.
+I also have some experience helping people along in the right direction, when it comes to navigating the abyss.
+Maybe I could assist?
+_
+248. JR1: =009547
+What lull?
+You've been talking nonstop since you were created.
+_
+249. JR2: =009549
+Could you maybe stop pawing at her?
+It's creepy.
+_
+250. JR3: =009550
+Kill.
+Me.
+Well, that settles that.
+Plan of action secured.
+Maybe it's time for you to go away now?
+_
+251. JR4: =009569
+Noooo. :(
+Vriska said that kernel was supposed to be for our potential resurrection purposes.
+And so was yours.
+_
+252. JE76: =009582
+No!
+_
+253. Ce1; JE77: =009585
+So what happened?
+So, you were only there to release her?
+Are you sure there isn't something important for you to do, now that you're alive and with us?
+I don't mean to badger you. I'm just wondering how you fit into all this.
+Getting to wear a one-of-a-kind ring, and returning to join a group about to wage a pivotal battle,
+That strikes me as the profile of someone meant to do something important.
+What do you think you'll do?
+I guess so.
+First Dave tells me human beings don't have "arcs", and now you're telling me the culmination of an epic doesn't require a messianic archetype to return from the dead, thereby providing the key to everyone's salvation?
+I wonder what sturdy and time-tested narrative construct Jade is going to debunk whenever she wakes up. Maybe she will lay waste to the notion of endgame ships?
+Karkat won't be happy about that.
+How so?
+Isn't that just how it always is with alt-selves.
+So cryptic.
+_
+254. JE78; JC2: =009597
+I imagine it's a lot easier to relax when another version of yourself hasn't been hijacked by your dead cat.
+Sounds suspiciously like the advice of someone who's never had to deal with an outlandish alternate version of himself.
+You mean, Johns that were essentially time duplicates? In the course of your retcon quest?
+Those don't count. Those were just regular Johns.
+What I'm saying is, you never had to deal with the John who was like, half Harry Anderson, and half Maplehoof the dear departed pony.
+Come to think of it, you're the only one of us who hasn't. I mean, of our original group of friends.
+Dave had Bird Dave, Jade had Dog Jade, and now I have... *shudder*... Cat Rose.
+Why were you let off the hook?
+Even putting aside the wildly unwelcome body horror slapstick routine she represents, and the machine gun salvo of opprobrious remarks and conduct which my cat is apparently capable of releasing from my subconscious,
+I'm not sure where this leaves me.
+I felt like I understood my place.
+I'd gotten myself in order somewhat. My, um.
+Beverage decisions had gotten more reasonable.
+I was ready to bear down and play my part in finishing this.
+I could even handle a stray Rosesprite brought to my doorstep by my sweet imbecile of a pet.
+Idiotic though that was, I was still clearly Rose Prime.
+But can I really claim that now?
+She's a... sprite SQUARED?!
+How is that even a thing.
+Can someone tell me how that's even a thing?
+What's next? Is there a sprite cubed? Or a...
+Let's not even entertain this avenue of thought.
+The point is, she must be quite powerful, insightful, and in spite of the beast she rents headspace out to, intelligent as well.
+Doesn't she arguably have more claim to being Real Rose than I do?
+I don't care if my feelings are hurt, though.
+I just want to know where I stand.
+Sure. That's what she WANTS you to think.
+That was a different context.
+I probably would have felt the same way, if I found myself in her exact situation.
+Jasprose changes everything though.
+Now I feel a certain responsibility. Like I have to really step up.
+Yes. To make sure I stay regarded as the exemplary model.
+To provide assurance that the concept of Roseness itself doesn't degrade due to black market peddlers of substandard shit.
+Basically, I need to defend the integrity of the brand.
+What?
+_
+255. JE79: =009598
+My brand missed you too, John.
+They're probably getting a stern earful of roiling monster patois right about now.
+...
+At what?
+I think Karkat will successfully fail to understand the monster, and possibly also successfully shout at the monster.
+Kanaya I think will probably successfully do something sensible in response to whatever the monster demands.
+I'm still not sure what "it" is.
+But yes.
+You think so?
+Vriska says a lot of things.
+That's the basic idea, yes.
+But monsters can be complicated.
+Regardless, I think the right person was summoned to handle it.
+Sure.
+You do?
+I am too.
+When you put it that way,
+It really does sound like you were trying to fuck us up.
+_
+256. JE80: =009599
+I don't think there's anyone who could answer that.
+I suspect literally no one in the history of anywhere has ever met both people.
+Until, as of now, Dave himself.
+_
+257. JR5: =009614
+Euuuugh.
+It really isn't.
+_
+258. KM50; JE81; RxLa17: =009833
+Agreed.
+I think I speak for all of us when I say we've indulged in entirely enough bullshit already.
+Let's get on with this.
+John, you're our leader. And if you try to deny that one more time, so help me god, I will acrobatically pirouette so hard off this lilypad, I'll perform a supersonic swan dive through Skaia and impregnate the battlefield with my own incredulous torso.
+Now please tell us what to do.
+John.
+...
+I don't know what I expected.
+No, it was fine.
+Roxy's right. It was very leadery. Very... "John".
+I'm just wondering now, if you're really going to embrace this business of leadership,
+Maybe you'd consider hiring a speech writer?
+Touché.
+_
+259. JE82: =009836
+......
+_
+260.

@@ -19,7 +19,6 @@ def getWordsOnly(inStr):
     return inProgress
 
 def countWordsInList(wordsInList,wordCounts={}):
-    #wordCounts={}
     for a in wordsInList:
         if a not in wordCounts:
             wordCounts[a]=1
@@ -33,57 +32,20 @@ def displayWordFrequencies(wordCounts):
         if(wordEntry[1]>1):
             print(wordEntry)
 
-
-
-roseExampleIn="""Act 1
-_
-1. JE1: =001963
-I understand you have recently come into possession of the beta release of "The Game of the Year", as featured in respectable periodicals such as GameBro Magazine.
-I can't control myself.
-I must have a weakness for insufferable pricks.
-John.
-You're wearing one of your disguises now, aren't you?
-You are typing to me right now while wearing something ridiculous.
-Ok.
-Why don't you go get the game from your father?
-I know, John.
-_
-2. JE2: =002035
-It looks like you managed to retrieve the beta. Excellent.
-I'm going to try to connect.
-The rabbit?
-I've heard tales of this wretched creature often. Its Homeric legend is practically ensconced in the fold of my personal mythology by now.
-Why don't we focus on the matter at hand?
-You are running the client application. I am running the server, so I am the host user. I have established a connection with you. This is sufficient for us to play the game.
-Why don't we get started?
-_
-3. JE3: =002041
-Sorry. I'm just getting a feel for the controls.
-Yes.
-I will try to be more careful next time.
-_
-4. JE4: =002044
-I'll give it a shot."""
-
+			
 def processText(inText):
-    aaaaa=getWordsOnly(inText).split(' ')
-    aaaaa=countWordsInList(aaaaa)
-    displayWordFrequencies(aaaaa)
+    wordList = getWordsOnly(inText).split(' ')
+    wordCount = countWordsInList(wordList)
+    displayWordFrequencies(wordCount)
 
-asdf="bob"
 
 def countWordsInFile(filepath):
     wordCounts={}
-    i=0
-    global asdf
     content_file = open(filepath, 'r')
     for line in content_file:
         wordsOnly=getWordsOnly(line)
         wordCounts=countWordsInList(getWordsOnly(line).split(' '),wordCounts)
-        i+=1
     content_file.close()
-        #content = content_file.read()
-    #aaaaa=getWordsOnly(content).split(' ')
     return wordCounts
 
 def wordCountsDotProduct(wordCounts_A,wordCounts_B):
@@ -95,18 +57,21 @@ def wordCountsDotProduct(wordCounts_A,wordCounts_B):
 
 
 charsFiles={
-'john':r"C:\Users\madaco\Documents\homestuckLogs\humans\Beta kids\john egbert.rtf.txt",
-'rose':r"C:\Users\madaco\Documents\homestuckLogs\humans\Beta kids\rose lalonde.rtf.txt",
-'jade':r"C:\Users\madaco\Documents\homestuckLogs\humans\Beta kids\jade harley.rtf.txt",
-'dave':r"C:\Users\madaco\Documents\homestuckLogs\humans\Beta kids\dave strider.rtf.txt"
+'john':r"./words/Humans/Beta kids/john egbert.txt",
+'rose':r"./words/Humans/Beta kids/rose lalonde.txt",
+'jade':r"./words/Humans/Beta kids/jade harley.txt",
+'dave':r"./words/Humans/Beta kids/dave strider.txt"
     }
 
 charsWordCounts={}
 charsMagnitudes={}
 
-def countWordsInEachFile():
+commonWords = ['the', 'be', 'to', 'of', 'and', 'a', 'in', 'that', 'have', 'I', 'it', 'for', 'not', 'on', 'with', 'he', 'as', 'you', 'do', 'at', 'this', 'but', 'his', 'by', 'from', 'they', 'we', 'say', 'her', 'she', 'or', 'an', 'will', 'my', 'one', 'all', 'would', 'there', 'their', 'what', 'so', 'up', 'out', 'if', 'about', 'who', 'get', 'which', 'go', 'me', 'when', 'make', 'can', 'like', 'time', 'no', 'just', 'him', 'know', 'take', 'person', 'into', 'year', 'your', 'good', 'some', 'could','them', 'see', 'other', 'than', 'then', 'now', 'look', 'only', 'come', 'its', 'over', 'think', 'also', 'back', 'after', 'use', 'two', 'how', 'our', 'work', 'first', 'well', 'way', 'even', 'new', 'want', 'because', 'any', 'these', 'give', 'day', 'most', 'us', '', '_']
+
+def countWordsInEachFile(usageTreshold):
     for char in charsFiles:
-        charsWordCounts[char]=countWordsInFile(charsFiles[char])
+        charsWordCounts[char] = (#filter for only words that happen more than once
+			{k:v for (k,v) in countWordsInFile(charsFiles[char]).items() if v > usageTreshold and k not in commonWords})
         charsMagnitudes[char]=math.sqrt(wordCountsDotProduct(charsWordCounts[char],charsWordCounts[char]))
 
 def similarity(char_A,char_B):
