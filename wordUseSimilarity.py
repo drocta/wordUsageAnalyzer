@@ -60,7 +60,11 @@ charsFiles={
 'john':r"./words/Humans/Beta kids/john egbert.txt",
 'rose':r"./words/Humans/Beta kids/rose lalonde.txt",
 'jade':r"./words/Humans/Beta kids/jade harley.txt",
-'dave':r"./words/Humans/Beta kids/dave strider.txt"
+'dave':r"./words/Humans/Beta kids/dave strider.txt",
+'jane':r"./words/Humans/alpha kids/jane crocker.txt",
+'jake':r"./words/Humans/alpha kids/jake english.txt",
+'roxy':r"./words/Humans/alpha kids/roxy lalonde.txt",
+'dirk':r"./words/Humans/alpha kids/dirk strider.txt"
     }
 
 charsWordCounts={}
