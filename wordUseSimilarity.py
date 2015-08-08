@@ -65,7 +65,10 @@ charsFiles={
 'jane':r"./words/Humans/alpha kids/jane crocker.txt",
 'jake':r"./words/Humans/alpha kids/jake english.txt",
 'roxy':r"./words/Humans/alpha kids/roxy lalonde.txt",
-'dirk':r"./words/Humans/alpha kids/dirk strider.txt"
+'dirk':r"./words/Humans/alpha kids/dirk strider.txt",
+'karkat':r"./words/trolls/Alternia trolls/karkat vantas.txt",
+'kanaya':r"./words/trolls/Alternia trolls/kanaya maryam.txt",
+'gamzee':r"./words/trolls/Alternia trolls/gamzee makara.txt"
     }
 
 charsWordCounts={}
