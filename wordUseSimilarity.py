@@ -19,7 +19,9 @@ def getWordsOnly(inStr):
     inProgress=inProgress.lower()
     return inProgress
 
-def countWordsInList(wordsInList,wordCounts={}):
+def countWordsInList(wordsInList,wordCounts=None):
+    if(wordCounts == None):
+    	wordCounts = {}
     for a in wordsInList:
         if a not in wordCounts:
             wordCounts[a]=1
